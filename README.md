@@ -11,7 +11,9 @@
 
 ###1.
 
-> Herr A hat als angestellter Softwarearchitekt bei einem Hersteller eine Vielzahl von Funktionen eines Datenbankmanagementsystems implementiert. Als der Hersteller einen neuen Geschäftsführer bekommt, behauptet dieser, das Unternehmen sei Urheber aller von den Angestellten im Rahmen ihrer Arbeitsverhältnisse geschaffenen Programmroutinen. Hat er Recht? Verletzt A das Urheberrecht, wenn er das System daheim installiert und für die Verwaltung seiner privaten DVD-Sammlung einsetzt?
+<b>
+Herr A hat als angestellter Softwarearchitekt bei einem Hersteller eine Vielzahl von Funktionen eines Datenbankmanagementsystems implementiert. Als der Hersteller einen neuen Geschäftsführer bekommt, behauptet dieser, das Unternehmen sei Urheber aller von den Angestellten im Rahmen ihrer Arbeitsverhältnisse geschaffenen Programmroutinen. Hat er Recht? Verletzt A das Urheberrecht, wenn er das System daheim installiert und für die Verwaltung seiner privaten DVD-Sammlung einsetzt?
+</b>
 
 DBMS ist Computerprogramm und geschützt nach [§69a UrhG][UG_69a]
 
@@ -32,7 +34,9 @@ Vernichtung / Deinstallation der Kopie nach [§69f Abs. 1 UrhG][UG_69f]
 
 ###2.
 
-> Arlt (A) kauft die Software SPX vom Entwickler Ebert (E). Arlt verkauft SPX an Clemens \(C\), ohne eigene Kopien zu behalten, wobei Arlt die Software für Clemens im Internet bereitstellt und Clemens diese herunterlädt. Ebert fordert von Arlt entgangenen Gewinn nach § 97 Absatz 2 UrhG. Zu Recht?
+<b>
+Arlt (A) kauft die Software SPX vom Entwickler Ebert (E). Arlt verkauft SPX an Clemens \(C\), ohne eigene Kopien zu behalten, wobei Arlt die Software für Clemens im Internet bereitstellt und Clemens diese herunterlädt. Ebert fordert von Arlt entgangenen Gewinn nach § 97 Absatz 2 UrhG. Zu Recht?
+</b>
 
 Software SPX ist Computerprogramm und geschützt nach [§69a UrhG][UG_69a]
 
@@ -50,7 +54,8 @@ C muss Original löschen nach [§69f UrhG][UG_69f], dies wurde aber nicht geford
 
 ###3.
 
-> Der selbständige Informatiker I entwickelt im Auftrag eines Versicherungsunternehmens
+<b>
+Der selbständige Informatiker I entwickelt im Auftrag eines Versicherungsunternehmens
 V eine Software S, mit der sich eine regionale
 Übersicht der wahrscheinlichsten Arten von Gewitterzellen darstellen
 lässt. Die zugrundeliegenden Daten bezieht die Software aus dem ETSRegister
@@ -62,6 +67,7 @@ Darf I die Software S auf CD-ROM brennen und auf einer Computermesse
 verschenken? Welche Rechte benötigt der Versicherer V, um
 die von I übergebene Software für seine Risikoschätzung zu nutzen? Wie
 ist die Rechtslage?
+</b>
 
 Software S ist Computerprogramm und geschützt nach [§69a (1),UrhG][UG_69a]
 
@@ -93,17 +99,21 @@ V benötigt als Berechtigter keine weiteren Rechte
 
 ###4.
 
-> Die Firma Dataplus (D) bietet auf CD-ROM ein Recherchesystem Regionom
+<b>
+Die Firma Dataplus (D) bietet auf CD-ROM ein Recherchesystem Regionom
 \(R\) zur wirtschaftlichen Entwicklung regionaler Unternehmen an.
+</b>
 
-> (a) Braucht Dataplus die Erlaubnis der Unternehmen, wenn es<br />
-> - Umsatzdaten,<br />
-> - ein Foto vom Firmenstandort,<br />
-> - ein Foto des Geschäftsführers, Vorstandsvorsitzenden o. ä.,<br />
-> - das Firmenlogo,<br />
->
-> soweit diese (z. B. im Internet) öffentlich zugänglich sind, in Regionom
+<b>
+(a) Braucht Dataplus die Erlaubnis der Unternehmen, wenn es<br />
+- Umsatzdaten,<br />
+- ein Foto vom Firmenstandort,<br />
+- ein Foto des Geschäftsführers, Vorstandsvorsitzenden o. ä.,<br />
+- das Firmenlogo,<br />
+
+soweit diese (z. B. im Internet) öffentlich zugänglich sind, in Regionom
 aufnimmt?
+</b>
 
 Umsatz kann mit UrhG nicht gelöst werden, da kein Schutz durch UrhG
 
@@ -122,12 +132,14 @@ Firmenlogo:
 GGV Gemeinschaftsgeschmacksmusterverordnung Artikel 6
 Inhaber eines Geschmacksmusters darf Benutzung verbieten
 
-> (b) Nutzer Norbert (N) übernimmt gegen Bezahlung ein Regionom-
+<b>
+(b) Nutzer Norbert (N) übernimmt gegen Bezahlung ein Regionom-
 Exemplar (Kopie), kopiert daraus eine mit Standardeinstellungen in
 Excel von Dataplus erstellte Geschäftsgrafik zum Umsatz des Unternehmens
 Zimmermann und übernimmt diese in ein eigenes kommerziell
 vertriebenes System. Dataplus fordert von Norbert Unterlassung
 und droht Schadensersatzforderungen an. Zu Recht?
+</b>
 
 Grafik wurde mit Standardeinstellungen erzeugt
 -> Keine persönliche geistige Schöpfung
@@ -135,12 +147,14 @@ Grafik wurde mit Standardeinstellungen erzeugt
 
 Unlautere geschäftliche Handlung nach [§3 UWG][UWG_3] ?
 
-> \(c\) Norbert konzipiert die Entwicklung eines online nutzbaren Auskunftsdienstes
+<b>
+\(c\) Norbert konzipiert die Entwicklung eines online nutzbaren Auskunftsdienstes
 Ecoplus (E), der auch die Recherche in Regionom
 ermöglichen soll. Dataplus erfährt, dass Norbert bereits für den neuen
 Auskunftsdienst wirbt, und fordert von Norbert Unterlassung der
 Werbung sowie der Einbeziehung von Regionom in den Auskunftsdienst.
 Zu Recht?
+</b>
 
 Regionom ist Datenbank nach [§87a UrhG][UG_87a]
 
@@ -157,13 +171,15 @@ Irreführende rechtliche Handlung nach [§5 UWG][UWG_5]
 
 ###5.
 
-> Auf Basis eines Werkvertrages erarbeitet der Jurist Schulze (S) für die
+<b>
+Auf Basis eines Werkvertrages erarbeitet der Jurist Schulze (S) für die
 Informatikfirma Makronom (M) den lauffähigen Prototyp eines Rechtsrecherchesystems
 Topcases \(R\) mit einer bisher noch nicht bekannten
 Auswahl und Präsentation wesentlicher Gerichtsentscheidungen zu auswählbaren
 Rechtsgebieten.
 Makronom realisiert das System auf CD-ROM und erreicht damit einen
 unerwartet hohen Umsatz.
+</b>
 
 Topcases \(R\) ist ein Computerprogramm und geschützt, da schöpferische Leistung nach [§69a Abs. 1,3 UrhG][UG_69a]
 
@@ -191,9 +207,11 @@ Schrankenbestimmungen:
 - Sicherheitskopie / Recht auf Privatkopie nach [§53 UrhG][UG_53] greift nicht
 - Bearbeitung Datenbankwerk [§55a UrhG][UG_55a] greift nicht
 
-> (a) Jurist Schulze, der über die Praxiseinführung nicht informiert wurde,
+<b>
+(a) Jurist Schulze, der über die Praxiseinführung nicht informiert wurde,
 fordert von Makronom Herausgabe des erzielten Gewinns. Zu
 Recht?
+</b>
 
 Makronom verletzt Schulzes Rechte an
 - Computerprogramm nach [§69c Nr. 1,3 UrhG][UG_69c]
@@ -206,19 +224,23 @@ Schulze hat Anspruch auf Schadensersatz in Höhe
 - der an Schulze zu zahlende Vergütung nach [§97 Abs. 2 Satz 3 UrhG][UG_97]
 - zusätzlichen Gewinns von Makronom aus Rechtsverletzung nach [§97 Abs. 2 Satz 2 UrhG][UG_97]
 
-> (b) Jurist Schulze brennt die Sammlung von Gerichtsentscheidungen
+<b>
+(b) Jurist Schulze brennt die Sammlung von Gerichtsentscheidungen
 mehrfach auf CD-ROM und verschenkt sie an andere Juristen auf
 einem Kongress. Makronom fordert Schadensersatz von Schulze.
 Zu Recht?
+</b>
 
 Schulze nimmt sein ausschließiches Recht zur
 - Vervielfältigung nach [§15 Nr. 1 UrhG][UG_15]
 - Verbreitung nach [§15 Nr. 2 UrhG][UG_15]
 des Datenbankwerkes wahr
 
-> \(c\) Der Jurist Tietz (T) kauft Topcases und kopiert einzelne darin enthaltene
+<b>
+\(c\) Der Jurist Tietz (T) kauft Topcases und kopiert einzelne darin enthaltene
 Gerichtsentscheidungen als Word-Dateien. Sind Schulze oder
 Makronom berechtigt, das Kopieren zu verbieten?
+</b>
 
 Tietz ist zur Nutzung des Recherchesystems berechtigt
 
