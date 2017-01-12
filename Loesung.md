@@ -228,19 +228,19 @@ Gerichtsurteile als solche sind als amtliche Werke nicht geschützt nach [§5 Ur
 
 [KUG_22]: https://dejure.org/gesetze/KunstUrhG/22.html
 [KUG_23]: https://dejure.org/gesetze/KunstUrhG/23.html
-[UG_15]: https://dejure.org/gesetze/UrhG/15.html
-[UG_17]: https://dejure.org/gesetze/UrhG/17.html
 [UG_2]: https://dejure.org/gesetze/UrhG/2.html
 [UG_3]: https://dejure.org/gesetze/UrhG/3.html
 [UG_4]: https://dejure.org/gesetze/UrhG/4.html
 [UG_5]: https://dejure.org/gesetze/UrhG/5.html
+[UG_7]: https://dejure.org/gesetze/UrhG/7.html
+[UG_15]: https://dejure.org/gesetze/UrhG/15.html
+[UG_17]: https://dejure.org/gesetze/UrhG/17.html
 [UG_53]: https://dejure.org/gesetze/UrhG/53.html
 [UG_55a]: https://dejure.org/gesetze/UrhG/55a.html
 [UG_69a]: https://dejure.org/gesetze/UrhG/69a.html
 [UG_69b]: https://dejure.org/gesetze/UrhG/69b.html
 [UG_69c]: https://dejure.org/gesetze/UrhG/69c.html
 [UG_69f]: https://dejure.org/gesetze/UrhG/69f.html
-[UG_7]: https://dejure.org/gesetze/UrhG/7.html
 [UG_87a]: https://dejure.org/gesetze/UrhG/87a.html
 [UG_87b]: https://dejure.org/gesetze/UrhG/87b.html
 [UG_87c]: https://dejure.org/gesetze/UrhG/87c.html
