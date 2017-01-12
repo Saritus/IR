@@ -34,7 +34,9 @@ Vernichtung / Deinstallation der Kopie nach [§69f Abs. 1 UrhG][UG_69f]
 
 ###2.
 
-> Arlt (A) kauft die Software SPX vom Entwickler Ebert (E). Arlt verkauft SPX an Clemens \(C\), ohne eigene Kopien zu behalten, wobei Arlt die Software für Clemens im Internet bereitstellt und Clemens diese herunterlädt. Ebert fordert von Arlt entgangenen Gewinn nach § 97 Absatz 2 UrhG. Zu Recht?
+<b>
+Arlt (A) kauft die Software SPX vom Entwickler Ebert (E). Arlt verkauft SPX an Clemens \(C\), ohne eigene Kopien zu behalten, wobei Arlt die Software für Clemens im Internet bereitstellt und Clemens diese herunterlädt. Ebert fordert von Arlt entgangenen Gewinn nach § 97 Absatz 2 UrhG. Zu Recht?
+</b>
 
 Software SPX ist Computerprogramm und geschützt nach [§69a UrhG][UG_69a]
 
@@ -52,7 +54,8 @@ C muss Original löschen nach [§69f UrhG][UG_69f], dies wurde aber nicht geford
 
 ###3.
 
-> Der selbständige Informatiker I entwickelt im Auftrag eines Versicherungsunternehmens
+<b>
+Der selbständige Informatiker I entwickelt im Auftrag eines Versicherungsunternehmens
 V eine Software S, mit der sich eine regionale
 Übersicht der wahrscheinlichsten Arten von Gewitterzellen darstellen
 lässt. Die zugrundeliegenden Daten bezieht die Software aus dem ETSRegister
@@ -64,6 +67,7 @@ Darf I die Software S auf CD-ROM brennen und auf einer Computermesse
 verschenken? Welche Rechte benötigt der Versicherer V, um
 die von I übergebene Software für seine Risikoschätzung zu nutzen? Wie
 ist die Rechtslage?
+</b>
 
 Software S ist Computerprogramm und geschützt nach [§69a (1),UrhG][UG_69a]
 
