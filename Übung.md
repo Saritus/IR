@@ -5,6 +5,8 @@ Sammlung wesentlicher Gerichtsentscheidungen ist Datenbankwerk nach §4 Abs. 2 U
 - Sammelwerk nach §4 Abs. 2 UrhG
 - Elemente einzeln zugänglich mittels Recherche
 - Elemente systematisch angeordnet, da Suche möglich
+
 Urheber und Rechtsinhaber ist Schulze nach §7 UrhG
 Makronom vervielfältigt und verbreitet Computerprogramm, benötigt dafür Rechte nach §69c Nr. 1,3 UrhG
 Wenn im Werkvertrag keine zusätzliche Vereinbarung getroffen sind, besitzt Makronom diese Rechte nicht -> Rechtsverletzung
+Makronom hat Datenbankwerk vervielfältigt, verletzt damit Ausschließlichkeitsrecht von Schulze nach §15 Nr. 1 UrhG
