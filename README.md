@@ -99,17 +99,21 @@ V benötigt als Berechtigter keine weiteren Rechte
 
 ###4.
 
-> Die Firma Dataplus (D) bietet auf CD-ROM ein Recherchesystem Regionom
+<b>
+Die Firma Dataplus (D) bietet auf CD-ROM ein Recherchesystem Regionom
 \(R\) zur wirtschaftlichen Entwicklung regionaler Unternehmen an.
+</b>
 
-> (a) Braucht Dataplus die Erlaubnis der Unternehmen, wenn es<br />
-> - Umsatzdaten,<br />
-> - ein Foto vom Firmenstandort,<br />
-> - ein Foto des Geschäftsführers, Vorstandsvorsitzenden o. ä.,<br />
-> - das Firmenlogo,<br />
->
-> soweit diese (z. B. im Internet) öffentlich zugänglich sind, in Regionom
+<b>
+(a) Braucht Dataplus die Erlaubnis der Unternehmen, wenn es<br />
+- Umsatzdaten,<br />
+- ein Foto vom Firmenstandort,<br />
+- ein Foto des Geschäftsführers, Vorstandsvorsitzenden o. ä.,<br />
+- das Firmenlogo,<br />
+
+soweit diese (z. B. im Internet) öffentlich zugänglich sind, in Regionom
 aufnimmt?
+</b>
 
 Umsatz kann mit UrhG nicht gelöst werden, da kein Schutz durch UrhG
 
@@ -163,13 +167,15 @@ Irreführende rechtliche Handlung nach [§5 UWG][UWG_5]
 
 ###5.
 
-> Auf Basis eines Werkvertrages erarbeitet der Jurist Schulze (S) für die
+<b>
+Auf Basis eines Werkvertrages erarbeitet der Jurist Schulze (S) für die
 Informatikfirma Makronom (M) den lauffähigen Prototyp eines Rechtsrecherchesystems
 Topcases \(R\) mit einer bisher noch nicht bekannten
 Auswahl und Präsentation wesentlicher Gerichtsentscheidungen zu auswählbaren
 Rechtsgebieten.
 Makronom realisiert das System auf CD-ROM und erreicht damit einen
 unerwartet hohen Umsatz.
+</b>
 
 Topcases \(R\) ist ein Computerprogramm und geschützt, da schöpferische Leistung nach [§69a Abs. 1,3 UrhG][UG_69a]
 
