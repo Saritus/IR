@@ -28,3 +28,7 @@ Makronom hat Datenbankwerk vervielfältigt, verletzt damit Ausschließlichkeitsr
 Makronom hat Datenbankwerk verbreitet, verletzt damit Ausschließlichkeitsrecht zur Verbreitung von Schulze nach §15 Nr. 2 UrhG
 
 Achtung: Bereits Anbieten ist Verbreitung nach §17 Abs. 1 UrhG
+
+Schrankenbestimmungen:
+- Sicherheitskopie / Recht auf Privatkopie nach §53 greift nicht
+- Bearbeitung Datenbankwerk §55a greift nicht
