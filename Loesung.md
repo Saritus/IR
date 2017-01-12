@@ -74,6 +74,45 @@ V benötigt als Berechtigter keine weiteren Rechte
 
 4.
 
+a)
+
+Umsatz kann mit UrhG nicht gelöst werden, da kein Schutz durch UrhG
+
+Wettbewerbsrecht -> §3 UWG Verbot unlauterer Handlungen
+
+Firmenstandort: gegebenfalls Werke der Baukunst nach §2 Nr. 4 UrhG
+
+Keine Zustimmung erforderlich, wenn ständig an öffentlichem Platz, Straße, ...
+
+Foto des Geschäftsführers:
+- Recht am eigenen Bild nach §22 KunstUrhG
+- außer Zeitgeschichte nach §23 KUG, Person als Beiwerk, Versammlungen, höheres Interesse der Kunst
+
+Firmenlogo:
+GGV Gemeinschaftsgeschmacksmusterverordnung Artikel 6
+Inhaber eines Geschmacksmusters darf Benutzung verbieten
+
+b)
+
+Grafik wurde mit Standardeinstellungen erzeugt
+-> Keine persönliche geistige Schöpfung
+-> Kein Schutz nach §3 UrhG
+
+Unlautere geschäftliche Handlung nach §3 UNG ?
+
+c)
+
+Regionom ist Datenbank nach §87a UrhG
+
+Rechtsinhaber ist Dataplus nach §87b UrhG
+
+E vervielfältigt nach Art und Umfang wesentliche Teile von Regionom, bzw. wiederholt unwesentliche Teile und macht dies öffentlich zugänglich
+-> Zustimmung von Dataplus ist erforderlich nach §87b UrhG
+
+Schranken nach §87c UrhG greifen nicht
+
+Irreführende rechtliche Handlung nach §5 UWG
+
 ***
 
 5.
@@ -103,9 +142,7 @@ Schrankenbestimmungen:
 - Sicherheitskopie / Recht auf Privatkopie nach §53 greift nicht
 - Bearbeitung Datenbankwerk §55a greift nicht
 
-a) Jurist Schulze, der über die Praxiseinführung nicht informiert wurde,
-fordert von Makronom Herausgabe des erzielten Gewinns. Zu
-Recht?
+a)
 
 Makronom verletzt Schulzes Rechte an
 - Computerprogramm nach §69c Nr. 1,3 UrhG
