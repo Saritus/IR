@@ -32,3 +32,15 @@ Achtung: Bereits Anbieten ist Verbreitung nach §17 Abs. 1 UrhG
 Schrankenbestimmungen:
 - Sicherheitskopie / Recht auf Privatkopie nach §53 greift nicht
 - Bearbeitung Datenbankwerk §55a greift nicht
+
+a)
+
+Makronom verletzt Schulzes Rechte an
+- Computerprogramm nach §69c Nr. 1,3 UrhG
+- Datenbankwerk nach §15 Nr. 1,2 UrhG
+wenn im Werkvertrag keine zusätzlichen Absprachen getroffen wurden.
+
+Schulze hat Anspruch auf Schadensersatz in Höhe
+- des Schulze entstandenen Schadens nach §97 Abs. 2 Satz 1 UrhG
+- der an Schulze zu zahlende Vergütung nach §97 Abs. 2 Satz 3 UrhG
+- zusätzlichen Gewinns von Makronom aus Rechtsverletzung nach §97 Abs. 2 Satz 2 UrhG
