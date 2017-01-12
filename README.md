@@ -132,12 +132,14 @@ Firmenlogo:
 GGV Gemeinschaftsgeschmacksmusterverordnung Artikel 6
 Inhaber eines Geschmacksmusters darf Benutzung verbieten
 
-> (b) Nutzer Norbert (N) übernimmt gegen Bezahlung ein Regionom-
+<b>
+(b) Nutzer Norbert (N) übernimmt gegen Bezahlung ein Regionom-
 Exemplar (Kopie), kopiert daraus eine mit Standardeinstellungen in
 Excel von Dataplus erstellte Geschäftsgrafik zum Umsatz des Unternehmens
 Zimmermann und übernimmt diese in ein eigenes kommerziell
 vertriebenes System. Dataplus fordert von Norbert Unterlassung
 und droht Schadensersatzforderungen an. Zu Recht?
+</b>
 
 Grafik wurde mit Standardeinstellungen erzeugt
 -> Keine persönliche geistige Schöpfung
@@ -145,12 +147,14 @@ Grafik wurde mit Standardeinstellungen erzeugt
 
 Unlautere geschäftliche Handlung nach [§3 UWG][UWG_3] ?
 
-> \(c\) Norbert konzipiert die Entwicklung eines online nutzbaren Auskunftsdienstes
+<b>
+\(c\) Norbert konzipiert die Entwicklung eines online nutzbaren Auskunftsdienstes
 Ecoplus (E), der auch die Recherche in Regionom
 ermöglichen soll. Dataplus erfährt, dass Norbert bereits für den neuen
 Auskunftsdienst wirbt, und fordert von Norbert Unterlassung der
 Werbung sowie der Einbeziehung von Regionom in den Auskunftsdienst.
 Zu Recht?
+</b>
 
 Regionom ist Datenbank nach [§87a UrhG][UG_87a]
 
@@ -203,9 +207,11 @@ Schrankenbestimmungen:
 - Sicherheitskopie / Recht auf Privatkopie nach [§53 UrhG][UG_53] greift nicht
 - Bearbeitung Datenbankwerk [§55a UrhG][UG_55a] greift nicht
 
-> (a) Jurist Schulze, der über die Praxiseinführung nicht informiert wurde,
+<b>
+(a) Jurist Schulze, der über die Praxiseinführung nicht informiert wurde,
 fordert von Makronom Herausgabe des erzielten Gewinns. Zu
 Recht?
+</b>
 
 Makronom verletzt Schulzes Rechte an
 - Computerprogramm nach [§69c Nr. 1,3 UrhG][UG_69c]
@@ -218,19 +224,23 @@ Schulze hat Anspruch auf Schadensersatz in Höhe
 - der an Schulze zu zahlende Vergütung nach [§97 Abs. 2 Satz 3 UrhG][UG_97]
 - zusätzlichen Gewinns von Makronom aus Rechtsverletzung nach [§97 Abs. 2 Satz 2 UrhG][UG_97]
 
-> (b) Jurist Schulze brennt die Sammlung von Gerichtsentscheidungen
+<b>
+(b) Jurist Schulze brennt die Sammlung von Gerichtsentscheidungen
 mehrfach auf CD-ROM und verschenkt sie an andere Juristen auf
 einem Kongress. Makronom fordert Schadensersatz von Schulze.
 Zu Recht?
+</b>
 
 Schulze nimmt sein ausschließiches Recht zur
 - Vervielfältigung nach [§15 Nr. 1 UrhG][UG_15]
 - Verbreitung nach [§15 Nr. 2 UrhG][UG_15]
 des Datenbankwerkes wahr
 
-> \(c\) Der Jurist Tietz (T) kauft Topcases und kopiert einzelne darin enthaltene
+<b>
+\(c\) Der Jurist Tietz (T) kauft Topcases und kopiert einzelne darin enthaltene
 Gerichtsentscheidungen als Word-Dateien. Sind Schulze oder
 Makronom berechtigt, das Kopieren zu verbieten?
+</b>
 
 Tietz ist zur Nutzung des Recherchesystems berechtigt
 
