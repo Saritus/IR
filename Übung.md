@@ -6,9 +6,26 @@ Ablauf:
 - Ist der Ausführende der Rechtsinhaber?
 - Welche Rechtsfolgen haben die Handlungen?
 
-5.
+1.
 
-Topcases (R) ist ein Computerprogramm und geschützt, da schöpferische Leistung nach §69a Abs. 1,3 UrhG
+***
+
+2.
+
+***
+
+3.
+
+***
+
+4.
+
+***
+
+5. Auf Basis eines Werkvertrages erarbeitet der Jurist Schulze (S) für die Informatikfirma Makronom (M) den lauffähigen Prototyp eines Rechtsrecherchesystems Topcases \(R\) mit einer bisher noch nicht bekannten Auswahl und Präsentation wesentlicher Gerichtsentscheidungen zu auswählbaren Rechtsgebieten.<br />
+Makronom realisiert das System auf CD-ROM und erreicht damit einen unerwartet hohen Umsatz.
+
+Topcases \(R\) ist ein Computerprogramm und geschützt, da schöpferische Leistung nach §69a Abs. 1,3 UrhG
 
 Urheber und Rechtsinhaber ist Schulze (S) nach §7 UrhG, §69b UrhG greift nicht
 
@@ -33,7 +50,9 @@ Schrankenbestimmungen:
 - Sicherheitskopie / Recht auf Privatkopie nach §53 greift nicht
 - Bearbeitung Datenbankwerk §55a greift nicht
 
-a)
+a) Jurist Schulze, der über die Praxiseinführung nicht informiert wurde,
+fordert von Makronom Herausgabe des erzielten Gewinns. Zu
+Recht?
 
 Makronom verletzt Schulzes Rechte an
 - Computerprogramm nach §69c Nr. 1,3 UrhG
@@ -55,5 +74,7 @@ des Datenbankwerkes wahr
 c)
 
 Tietz ist zur Nutzung des Recherchesystems berechtigt
+
 Tietz vervielfältigt und verbreitet nach Art und Umfang nicht wesentliche Teile der Datenbank, nicht unzulässig nach §87b UrhG
+
 Gerichtsurteile als solche sind als amtliche Werke nicht geschützt nach §5 UrhG
