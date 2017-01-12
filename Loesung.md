@@ -115,7 +115,7 @@ Keine Zustimmung erforderlich, wenn ständig an öffentlichem Platz, Straße, ..
 Foto des Geschäftsführers:
 
 - Recht am eigenen Bild nach §22 KunstUrhG
-- außer Zeitgeschichte nach §23 KUG, Person als Beiwerk, Versammlungen, höheres Interesse der Kunst
+- außer Zeitgeschichte nach §23 KunstUrhG, Person als Beiwerk, Versammlungen, höheres Interesse der Kunst
 
 Firmenlogo:
 GGV Gemeinschaftsgeschmacksmusterverordnung Artikel 6
