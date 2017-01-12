@@ -44,7 +44,7 @@ Entwickler E ist Urheber nach [§7 UrhG][UG_7]
 
 Entwickler E ist Rechtsinhaber nach [§69b UrhG][UG_69b]
 
-Weitergabe des Originals nach [§69c Nr. 1, 3, 4 UrhG][UG_69c]
+Weitergabe des Originals nach [§69c Nr. 1,3,4 UrhG][UG_69c]
 
 A führt diese Handlung aus, ohne Rechtsinhaber zu sein
 
@@ -69,7 +69,7 @@ die von I übergebene Software für seine Risikoschätzung zu nutzen? Wie
 ist die Rechtslage?
 </b>
 
-Software S ist Computerprogramm und geschützt nach [§69a (1),UrhG][UG_69a]
+Software S ist Computerprogramm und geschützt nach [§69a Abs. 1,3 UrhG][UG_69a]
 
 Informatiker I ist Urheber nach [§7 UrhG][UG_7]
 
