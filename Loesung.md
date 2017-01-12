@@ -71,7 +71,7 @@ Informatiker I ist Rechtsinhaber, da I und V einen Werkvertrag haben, nach [§7 
 
 Informatiker I darf als Urheber und Rechtsinhaber
 - vervielfältigen nach [§69c Nr. 1 UrhG][UG_69c]
-- verbreiten nach §69c Nr. 3
+- verbreiten nach [§69c Nr. 3 UrhG][UG_69c]
 wenn im zugrundeliegenden Vertrag keine Einschränkungen enthalten sind
 
 ETS-Register ist Datenbank nach [§87a Abs. 1 UrhG][UG_87a], da
@@ -107,7 +107,7 @@ aufnimmt?
 
 Umsatz kann mit UrhG nicht gelöst werden, da kein Schutz durch UrhG
 
-Wettbewerbsrecht -> §3 UWG Verbot unlauterer Handlungen
+Wettbewerbsrecht -> [§3 UWG][UWG_3] Verbot unlauterer Handlungen
 
 Firmenstandort: gegebenfalls Werke der Baukunst nach [§2 Nr. 4 UrhG][UG_2]
 
@@ -133,7 +133,7 @@ Grafik wurde mit Standardeinstellungen erzeugt
 -> Keine persönliche geistige Schöpfung
 -> Kein Schutz nach [§3 UrhG][UG_3]
 
-Unlautere geschäftliche Handlung nach §3 UNG ?
+Unlautere geschäftliche Handlung nach [§3 UWG][UWG_3] ?
 
 > \(c\) Norbert konzipiert die Entwicklung eines online nutzbaren Auskunftsdienstes
 Ecoplus (E), der auch die Recherche in Regionom
@@ -151,7 +151,7 @@ E vervielfältigt nach Art und Umfang wesentliche Teile von Regionom, bzw. wiede
 
 Schranken nach [§87c UrhG][UG_87c] greifen nicht
 
-Irreführende rechtliche Handlung nach §5 UWG
+Irreführende rechtliche Handlung nach [§5 UWG][UWG_5]
 
 ***
 
@@ -243,6 +243,7 @@ Gerichtsurteile als solche sind als amtliche Werke nicht geschützt nach [§5 Ur
 [UG_87b]: https://dejure.org/gesetze/UrhG/87b.html
 [UG_87c]: https://dejure.org/gesetze/UrhG/87c.html
 [UG_97]: https://dejure.org/gesetze/UrhG/97.html
-
 [KUG_22]: https://dejure.org/gesetze/KunstUrhG/22.html
 [KUG_23]: https://dejure.org/gesetze/KunstUrhG/23.html
+[UWG_3]: https://dejure.org/gesetze/UWG/3.html
+[UWG_5]: https://dejure.org/gesetze/UWG/5.html
