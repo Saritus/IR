@@ -1,4 +1,4 @@
-Ablauf:
+###Ablauf:
 
 - Was ist Schutzgegenstand?
 - Wer ist Urheber?
@@ -9,7 +9,7 @@ Ablauf:
 
 ***
 
-1.
+###1.
 
 > Herr A hat als angestellter Softwarearchitekt bei einem Hersteller eine Vielzahl von Funktionen eines Datenbankmanagementsystems implementiert. Als der Hersteller einen neuen Geschäftsführer bekommt, behauptet dieser, das Unternehmen sei Urheber aller von den Angestellten im Rahmen ihrer Arbeitsverhältnisse geschaffenen Programmroutinen. Hat er Recht? Verletzt A das Urheberrecht, wenn er das System daheim installiert und für die Verwaltung seiner privaten DVD-Sammlung einsetzt?
 
@@ -30,7 +30,7 @@ Vernichtung / Deinstallation der Kopie nach §69f Abs. 1 UrhG
 
 ***
 
-2.
+###2.
 
 > Arlt (A) kauft die Software SPX vom Entwickler Ebert (E). Arlt verkauft SPX an Clemens \(C\), ohne eigene Kopien zu behalten, wobei Arlt die Software für Clemens im Internet bereitstellt und Clemens diese herunterlädt. Ebert fordert von Arlt entgangenen Gewinn nach § 97 Absatz 2 UrhG. Zu Recht?
 
@@ -48,7 +48,7 @@ C muss Original löschen nach §69f UrhG, dies wurde aber nicht gefordert
 
 ***
 
-3.
+###3.
 
 > Der selbständige Informatiker I entwickelt im Auftrag eines Versicherungsunternehmens
 V eine Software S, mit der sich eine regionale
@@ -91,15 +91,16 @@ V benötigt als Berechtigter keine weiteren Rechte
 
 ***
 
-4.
+###4.
+
 > Die Firma Dataplus (D) bietet auf CD-ROM ein Recherchesystem Regionom
 \(R\) zur wirtschaftlichen Entwicklung regionaler Unternehmen an.
 
-> (a) Braucht Dataplus die Erlaubnis der Unternehmen, wenn es
-i. Umsatzdaten,
-ii. ein Foto vom Firmenstandort,
-iii. ein Foto des Geschäftsführers, Vorstandsvorsitzenden o. ä.,
-iv. das Firmenlogo,
+> (a) Braucht Dataplus die Erlaubnis der Unternehmen, wenn es<br />
+i. Umsatzdaten,<br />
+ii. ein Foto vom Firmenstandort,<br />
+iii. ein Foto des Geschäftsführers, Vorstandsvorsitzenden o. ä.,<br />
+iv. das Firmenlogo,<br />
 soweit diese (z. B. im Internet) öffentlich zugänglich sind, in Regionom
 aufnimmt?
 
@@ -153,7 +154,7 @@ Irreführende rechtliche Handlung nach §5 UWG
 
 ***
 
-5.
+###5.
 
 > Auf Basis eines Werkvertrages erarbeitet der Jurist Schulze (S) für die
 Informatikfirma Makronom (M) den lauffähigen Prototyp eines Rechtsrecherchesystems
@@ -186,17 +187,14 @@ Makronom hat Datenbankwerk verbreitet, verletzt damit Ausschließlichkeitsrecht 
 Achtung: Bereits Anbieten ist Verbreitung nach §17 Abs. 1 UrhG
 
 Schrankenbestimmungen:
-
 - Sicherheitskopie / Recht auf Privatkopie nach §53 greift nicht
 - Bearbeitung Datenbankwerk §55a greift nicht
 
 > (a) Jurist Schulze, der über die Praxiseinführung nicht informiert wurde,
 fordert von Makronom Herausgabe des erzielten Gewinns. Zu
 Recht?
-2
 
 Makronom verletzt Schulzes Rechte an
-
 - Computerprogramm nach §69c Nr. 1,3 UrhG
 - Datenbankwerk nach §15 Nr. 1,2 UrhG
 wenn im Werkvertrag keine zusätzlichen Absprachen getroffen wurden.
