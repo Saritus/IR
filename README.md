@@ -248,6 +248,29 @@ Tietz vervielfältigt und verbreitet nach Art und Umfang nicht wesentliche Teile
 
 Gerichtsurteile als solche sind als amtliche Werke nicht geschützt nach [§5 UrhG][UG_5]
 
+***
+
+###6.
+
+<b>
+Anne (A) kauft das Tabellenkalkulationsprogramm Tangens (T) für
+das Betriebssystem Exoid (E). Sie möchte es gern auf ihrem Tablet-
+Computer einsetzen, jedoch läuft es nicht unter dem dort eingesetzten
+Open-Source-Betriebssystem Deformer (D), für welches u. a. ein unentgeltliches
+Bearbeitungsrecht gegenüber jedermann eingeräumt ist. Anne
+fragt bei Benjamin (B), dem selbständigen Entwickler von Tangens,
+an, um einige nicht in den Programmunterlagen enthaltene, für den Einsatz
+unter Deformer notwendige Zusatzinformationen zu erhalten. Benjamin
+verweigert die Information, weil es bei der Umstellung auf Deformer
+nicht um eine Fehlerberichtigung gehe. Wie ist die Rechtslage? Ist Benjamin
+zur Herausgabe der Zusatzinformationen verpflichtet? Was kann
+Anne tun, um ihr Ziel ohne weitere Kooperation von Benjamin und ohne
+Rechtsverletzung zu erreichen? Kann Benjamin das von Ihnen vorgeschlagene
+Vorgehen vertraglich wirksam ausschließen? Drohen Rechtsfolgen,
+wenn Anne Tangens „nachbessert“, damit es unter Deformer
+läuft?
+</b>
+
 [KUG_22]: https://dejure.org/gesetze/KunstUrhG/22.html
 [KUG_23]: https://dejure.org/gesetze/KunstUrhG/23.html
 [UG_2]: https://dejure.org/gesetze/UrhG/2.html
