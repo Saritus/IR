@@ -22,8 +22,7 @@ Ablauf:
 
 ***
 
-5. Auf Basis eines Werkvertrages erarbeitet der Jurist Schulze (S) für die Informatikfirma Makronom (M) den lauffähigen Prototyp eines Rechtsrecherchesystems Topcases \(R\) mit einer bisher noch nicht bekannten Auswahl und Präsentation wesentlicher Gerichtsentscheidungen zu auswählbaren Rechtsgebieten.<br />
-Makronom realisiert das System auf CD-ROM und erreicht damit einen unerwartet hohen Umsatz.
+5.
 
 Topcases \(R\) ist ein Computerprogramm und geschützt, da schöpferische Leistung nach §69a Abs. 1,3 UrhG
 
