@@ -1,3 +1,11 @@
+Ablauf:
+- Was ist Schutzgegenstand?
+- Wer ist Urheber?
+- Wer ist Rechtsinhaber?
+- Welche UrhG relevanten Handlungen werden vorgenommen?
+- Ist der Ausführende der Rechtsinhaber?
+- Welche Rechtsfolgen haben die Handlungen?
+
 5.
 
 Topcases (R) ist ein Computerprogramm und geschützt, da schöpferische Leistung nach §69a Abs. 1,3 UrhG
@@ -18,3 +26,5 @@ Wenn im Werkvertrag keine zusätzliche Vereinbarung getroffen sind, besitzt Makr
 Makronom hat Datenbankwerk vervielfältigt, verletzt damit Ausschließlichkeitsrecht von Schulze nach §15 Nr. 1 UrhG
 
 Makronom hat Datenbankwerk verbreitet, verletzt damit Ausschließlichkeitsrecht zur Verbreitung von Schulze nach §15 Nr. 2 UrhG
+
+Achtung: Bereits Anbieten ist Verbreitung nach §17 Abs. 1 UrhG
