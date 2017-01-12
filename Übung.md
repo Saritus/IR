@@ -10,7 +10,7 @@ Ablauf:
 
 1.
 
-DBMS ist Computerprogramm und geschützt nach §69a
+DBMS ist Computerprogramm und geschützt nach §69a UrhG
 
 A ist Urheber nach §7 UrhG
 
@@ -28,6 +28,19 @@ Vernichtung / Deinstallation der Kopie nach §69f Abs. 1 UrhG
 ***
 
 2.
+
+Software SPX ist Computerprogramm und geschützt nach §69a UrhG
+
+Entwickler E ist Urheber nach §7 UrhG
+
+Entwickler E ist Rechtsinhaber nach §69b UrhG
+
+Weitergabe des Originals nach §69c Nr. 1, 3, 4 UrhG
+
+A führt diese Handlung aus, ohne Rechtsinhaber zu sein
+
+C muss Original löschen nach §69f UrhG, dies wurde aber nicht gefordert
+
 
 ***
 
