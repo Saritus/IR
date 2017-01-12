@@ -6,7 +6,24 @@ Ablauf:
 - Ist der Ausführende der Rechtsinhaber?
 - Welche Rechtsfolgen haben die Handlungen?
 
+***
+
 1.
+
+DBMS ist Computerprogramm und geschützt nach §69a
+
+A ist Urheber nach §7 UrhG
+
+Hersteller ist Rechtsinhaber nach §69b UrhG
+
+Installation ist Vervielfältigung nach §69c Nr. 1 UrhG
+
+Nutzbarmachung für eigene Zwecke könnte Bearbeitung bzw. Arrangement sein nach §69c Nr. 2 UrhG
+
+A führt diese Handlungen aus, ohne Rechtsinhaber zu sein und ohne Zustimmung des Rechtsinhabers
+-> Rechtsverletzung durch A
+
+Vernichtung / Deinstallation der Kopie nach §69f Abs. 1 UrhG
 
 ***
 
