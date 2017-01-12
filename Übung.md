@@ -46,6 +46,31 @@ C muss Original löschen nach §69f UrhG, dies wurde aber nicht gefordert
 
 3.
 
+Software S ist Computerprogramm und geschützt nach §69a (1),UrhG
+
+Informatiker I ist Urheber nach §7 UrhG
+
+Informatiker I ist Rechtsinhaber, da I und V einen Werkvertrag haben, nach §7 UrhG und §15 UrhG
+
+Informatiker I darf als Urheber und Rechtsinhaber
+- vervielfältigen nach §69c Nr. 1 UrhG
+- verbreiten nach §69c Nr. 3
+wenn im zugrundeliegenden Vertrag keine Einschränkungen enthalten sind
+
+ETS-Register ist Datenbank nach §87a Abs. 1 UrhG, da
+- Daten systematisch angeordnet sind
+- einzeln elektronisch selektierbar
+- wesentliche Investition wird unterstellt
+
+S vervielfältigt Teile der Datenbank
+
+Wenn wesentlicher Teil, dann Zustimmung des DB-Herstellers erforderlich nach §87b Abs. 1 UrhG
+
+Wenn keine Zustimmung des DB-Herstellers vorliegt und wesentliche Teile vervielfältigt wurden
+-> Rechtsverletzung -> ETS hat Anspruch auf Vernichtung oder Schadensersatz
+
+V benötigt als Berechtigter keine weiteren Rechte
+
 ***
 
 4.
