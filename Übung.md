@@ -41,7 +41,6 @@ A führt diese Handlung aus, ohne Rechtsinhaber zu sein
 
 C muss Original löschen nach §69f UrhG, dies wurde aber nicht gefordert
 
-
 ***
 
 3.
