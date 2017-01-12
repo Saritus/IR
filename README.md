@@ -119,7 +119,7 @@ Umsatz kann mit UrhG nicht gelöst werden, da kein Schutz durch UrhG
 
 Wettbewerbsrecht -> [§3 UWG][UWG_3] Verbot unlauterer Handlungen
 
-Firmenstandort: gegebenfalls Werke der Baukunst nach [§2 Nr. 4 UrhG][UG_2]
+Firmenstandort: gegebenenfalls Werke der Baukunst nach [§2 Nr. 4 UrhG][UG_2]
 
 Keine Zustimmung erforderlich, wenn ständig an öffentlichem Platz, Straße, ...
 
@@ -231,7 +231,7 @@ einem Kongress. Makronom fordert Schadensersatz von Schulze.
 Zu Recht?
 </b>
 
-Schulze nimmt sein ausschließiches Recht zur
+Schulze nimmt sein ausschließliches Recht zur
 - Vervielfältigung nach [§15 Nr. 1 UrhG][UG_15]
 - Verbreitung nach [§15 Nr. 2 UrhG][UG_15]
 des Datenbankwerkes wahr
