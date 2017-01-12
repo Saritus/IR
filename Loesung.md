@@ -32,7 +32,7 @@ Vernichtung / Deinstallation der Kopie nach §69f Abs. 1 UrhG
 
 2.
 
-> Arlt (A) kauft die Software SPX vom Entwickler Ebert (E). Arlt verkauft SPX an Clemens (C), ohne eigene Kopien zu behalten, wobei Arlt die Software für Clemens im Internet bereitstellt und Clemens diese herunterlädt. Ebert fordert von Arlt entgangenen Gewinn nach § 97 Absatz 2 UrhG. Zu Recht?
+> Arlt (A) kauft die Software SPX vom Entwickler Ebert (E). Arlt verkauft SPX an Clemens \(C\), ohne eigene Kopien zu behalten, wobei Arlt die Software für Clemens im Internet bereitstellt und Clemens diese herunterlädt. Ebert fordert von Arlt entgangenen Gewinn nach § 97 Absatz 2 UrhG. Zu Recht?
 
 Software SPX ist Computerprogramm und geschützt nach §69a UrhG
 
@@ -93,9 +93,9 @@ V benötigt als Berechtigter keine weiteren Rechte
 
 4.
 > Die Firma Dataplus (D) bietet auf CD-ROM ein Recherchesystem Regionom
-(R) zur wirtschaftlichen Entwicklung regionaler Unternehmen an.
+\(R\) zur wirtschaftlichen Entwicklung regionaler Unternehmen an.
 
-> a) Braucht Dataplus die Erlaubnis der Unternehmen, wenn es
+> (a) Braucht Dataplus die Erlaubnis der Unternehmen, wenn es
 i. Umsatzdaten,
 ii. ein Foto vom Firmenstandort,
 iii. ein Foto des Geschäftsführers, Vorstandsvorsitzenden o. ä.,
@@ -120,7 +120,7 @@ Firmenlogo:
 GGV Gemeinschaftsgeschmacksmusterverordnung Artikel 6
 Inhaber eines Geschmacksmusters darf Benutzung verbieten
 
-> b) Nutzer Norbert (N) übernimmt gegen Bezahlung ein Regionom-
+> (b) Nutzer Norbert (N) übernimmt gegen Bezahlung ein Regionom-
 Exemplar (Kopie), kopiert daraus eine mit Standardeinstellungen in
 Excel von Dataplus erstellte Geschäftsgrafik zum Umsatz des Unternehmens
 Zimmermann und übernimmt diese in ein eigenes kommerziell
@@ -133,7 +133,7 @@ Grafik wurde mit Standardeinstellungen erzeugt
 
 Unlautere geschäftliche Handlung nach §3 UNG ?
 
-> c) Norbert konzipiert die Entwicklung eines online nutzbaren Auskunftsdienstes
+> \(c\) Norbert konzipiert die Entwicklung eines online nutzbaren Auskunftsdienstes
 Ecoplus (E), der auch die Recherche in Regionom
 ermöglichen soll. Dataplus erfährt, dass Norbert bereits für den neuen
 Auskunftsdienst wirbt, und fordert von Norbert Unterlassung der
@@ -155,15 +155,15 @@ Irreführende rechtliche Handlung nach §5 UWG
 
 5.
 
->Auf Basis eines Werkvertrages erarbeitet der Jurist Schulze (S) für die
+> Auf Basis eines Werkvertrages erarbeitet der Jurist Schulze (S) für die
 Informatikfirma Makronom (M) den lauffähigen Prototyp eines Rechtsrecherchesystems
-Topcases (R) mit einer bisher noch nicht bekannten
+Topcases \(R\) mit einer bisher noch nicht bekannten
 Auswahl und Präsentation wesentlicher Gerichtsentscheidungen zu auswählbaren
 Rechtsgebieten.
 Makronom realisiert das System auf CD-ROM und erreicht damit einen
 unerwartet hohen Umsatz.
 
-Topcases (R) ist ein Computerprogramm und geschützt, da schöpferische Leistung nach §69a Abs. 1,3 UrhG
+Topcases \(R\) ist ein Computerprogramm und geschützt, da schöpferische Leistung nach §69a Abs. 1,3 UrhG
 
 Urheber und Rechtsinhaber ist Schulze (S) nach §7 UrhG, §69b UrhG greift nicht
 
@@ -190,7 +190,7 @@ Schrankenbestimmungen:
 - Sicherheitskopie / Recht auf Privatkopie nach §53 greift nicht
 - Bearbeitung Datenbankwerk §55a greift nicht
 
->a) Jurist Schulze, der über die Praxiseinführung nicht informiert wurde,
+> (a) Jurist Schulze, der über die Praxiseinführung nicht informiert wurde,
 fordert von Makronom Herausgabe des erzielten Gewinns. Zu
 Recht?
 2
@@ -207,7 +207,7 @@ Schulze hat Anspruch auf Schadensersatz in Höhe
 - der an Schulze zu zahlende Vergütung nach §97 Abs. 2 Satz 3 UrhG
 - zusätzlichen Gewinns von Makronom aus Rechtsverletzung nach §97 Abs. 2 Satz 2 UrhG
 
->b) Jurist Schulze brennt die Sammlung von Gerichtsentscheidungen
+> (b) Jurist Schulze brennt die Sammlung von Gerichtsentscheidungen
 mehrfach auf CD-ROM und verschenkt sie an andere Juristen auf
 einem Kongress. Makronom fordert Schadensersatz von Schulze.
 Zu Recht?
@@ -217,7 +217,7 @@ Schulze nimmt sein ausschließiches Recht zur
 - Verbreitung nach §15 Nr. 2 UrhG
 des Datenbankwerkes wahr
 
->c) Der Jurist Tietz (T) kauft Topcases und kopiert einzelne darin enthaltene
+> \(c\) Der Jurist Tietz (T) kauft Topcases und kopiert einzelne darin enthaltene
 Gerichtsentscheidungen als Word-Dateien. Sind Schulze oder
 Makronom berechtigt, das Kopieren zu verbieten?
 
