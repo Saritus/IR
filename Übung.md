@@ -44,3 +44,16 @@ Schulze hat Anspruch auf Schadensersatz in Höhe
 - des Schulze entstandenen Schadens nach §97 Abs. 2 Satz 1 UrhG
 - der an Schulze zu zahlende Vergütung nach §97 Abs. 2 Satz 3 UrhG
 - zusätzlichen Gewinns von Makronom aus Rechtsverletzung nach §97 Abs. 2 Satz 2 UrhG
+
+b)
+
+Schulze nimmt sein ausschließiches Recht zur
+- Vervielfältigung nach §15 Nr. 1 UrhG
+- Verbreitung nach §15 Nr. 2 UrhG
+des Datenbankwerkes wahr
+
+c)
+
+Tietz ist zur Nutzung des Recherchesystems berechtigt
+Tietz vervielfältigt und verbreitet nach Art und Umfang nicht wesentliche Teile der Datenbank, nicht unzulässig nach §87b UrhG
+Gerichtsurteile als solche sind als amtliche Werke nicht geschützt nach §5 UrhG
