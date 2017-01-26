@@ -314,8 +314,8 @@ später zu einem lauffähigen Programm weiterverarbeitet werden soll –
 so steht es im Vertrag. Nach Übergabe entwickelt F auf Grundlage des
 Ablaufplans das Programm P und setzt es zunächst für sich ein. Einige
 Partnerfirmen haben auch Interesse am Logistikprogramm. F verkauft 8
-Exemplare von P zum Preis von je 3 000 Euro. E sieht sich als Miturheber
-von P und verlangt insgesamt 5 000 Euro Beteiligung an den bisherigen
+Exemplare von P zum Preis von je 3000 Euro. E sieht sich als Miturheber
+von P und verlangt insgesamt 5000 Euro Beteiligung an den bisherigen
 Verkäufen und bittet, die Verwertung künftig mit ihm abzustimmen.
 F entgegnet, dass ja nicht der Ablaufplan weiterverbreitet wurde. Welche
 Ansprüche hat E? Begründen Sie, ob die vier Schutzkriterien erfüllt sind.
