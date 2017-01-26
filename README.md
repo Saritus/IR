@@ -271,6 +271,12 @@ wenn Anne Tangens „nachbessert“, damit es unter Deformer
 läuft?
 </b>
 
+Tangens (T) ist ein Computerprogramm und geschützt, da schöpferische Leistung nach [§69a Abs. 1,3 UrhG][UG_69a]
+
+Benjamin (B) ist Urheber und Rechtsinhaber von Tangens (T)
+
+Anne (A) möchte Tangens (T) editieren, so dass es auf dem Betriebssystem Deformer (D) läuft.
+
 [KUG_22]: https://dejure.org/gesetze/KunstUrhG/22.html
 [KUG_23]: https://dejure.org/gesetze/KunstUrhG/23.html
 [UG_2]: https://dejure.org/gesetze/UrhG/2.html
