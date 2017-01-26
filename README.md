@@ -271,9 +271,17 @@ wenn Anne Tangens „nachbessert“, damit es unter Deformer
 läuft?
 </b>
 
-Tangens (T) ist ein Computerprogramm und geschützt, da schöpferische Leistung nach [§69a Abs. 1,3 UrhG][UG_69a]
+Tangens (T) ist ein Computerprogramm nach [§69a Abs. 1 UrhG][UG_69a] und genießt Schutz nach [§69a Abs. 3 UrhG][UG_69a], da persönliche geistige Schöpfung
 
-Benjamin (B) ist Urheber und Rechtsinhaber von Tangens (T) nach [§7 UrhG][UG_7]
+Benjamin (B) ist Urheber und Rechtsinhaber ([§69b UrhG][UG_69b] greift nicht) von Tangens (T) nach [§7 UrhG][UG_7]
+
+Benjamin muss keine weiteren Informationen an Anne herausgeben, da bestimmungsgemäße Nutzung gegeben ist (keine Regelung im UrhG, Schuldrecht ist erfüllt)
+
+Anne will Tangens (T) vervielfältigen ([§69c Nr. 1 UrhG][UG_69c]) und bearbeiten ([§69c Nr. 2 UrhG][UG_69c]) und benötigt dafür die Zustimmung von B
+
+Anpassung an Deformer (D) ist keine Fehlerbehebung und keine bestimmungsgemäße Nutzung, das heißt Schrankenbestimmungen nach [§69d Abs. 1 UrhG][UG_69d] greift nicht.
+
+###### Meine Zusätze
 
 Anne (A) möchte Tangens (T) editieren, so dass es auf dem Betriebssystem Deformer (D) läuft.
 
