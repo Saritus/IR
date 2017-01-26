@@ -321,6 +321,8 @@ F entgegnet, dass ja nicht der Ablaufplan weiterverbreitet wurde. Welche
 Ansprüche hat E? Begründen Sie, ob die vier Schutzkriterien erfüllt sind.
 </b>
 
+Der Ablaufplan für P stellt selbst kein Computerprogramm dar und ist deswegen nicht geschützt nach [§69a Abs. 2 UrhG][UG_69a]
+
 [KUG_22]: https://dejure.org/gesetze/KunstUrhG/22.html
 [KUG_23]: https://dejure.org/gesetze/KunstUrhG/23.html
 [UG_2]: https://dejure.org/gesetze/UrhG/2.html
