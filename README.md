@@ -303,6 +303,24 @@ Nach [§69c Abs. 2 UrhG][UG_69c] ist die Bearbeitung eines Computerprogrammes nu
 
 Sollte es sich bei der Bearbeitung um eine Fehlerberichtigung handeln, so greift [§69d Abs. 1 UrhG][UG_69d]
 
+***
+
+###7.
+
+<b>
+Entwickler E erarbeitet im Rahmen eines Werkvertrages einen Ablaufplan
+eines Logistikprogramms für die Firma F, der vom Auftraggeber F
+später zu einem lauffähigen Programm weiterverarbeitet werden soll –
+so steht es im Vertrag. Nach Übergabe entwickelt F auf Grundlage des
+Ablaufplans das Programm P und setzt es zunächst für sich ein. Einige
+Partnerfirmen haben auch Interesse am Logistikprogramm. F verkauft 8
+Exemplare von P zum Preis von je 3 000 Euro. E sieht sich als Miturheber
+von P und verlangt insgesamt 5 000 Euro Beteiligung an den bisherigen
+Verkäufen und bittet, die Verwertung künftig mit ihm abzustimmen.
+F entgegnet, dass ja nicht der Ablaufplan weiterverbreitet wurde. Welche
+Ansprüche hat E? Begründen Sie, ob die vier Schutzkriterien erfüllt sind.
+</b>
+
 [KUG_22]: https://dejure.org/gesetze/KunstUrhG/22.html
 [KUG_23]: https://dejure.org/gesetze/KunstUrhG/23.html
 [UG_2]: https://dejure.org/gesetze/UrhG/2.html
