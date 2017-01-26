@@ -281,15 +281,19 @@ Anne will Tangens (T) vervielfältigen ([§69c Nr. 1 UrhG][UG_69c]) und bearbeit
 
 Anpassung an Deformer (D) ist keine Fehlerbehebung und keine bestimmungsgemäße Nutzung, das heißt Schrankenbestimmungen nach [§69d Abs. 1 UrhG][UG_69d] greift nicht.
 
-A darf ohne Zustimmung durch B Tangens vervielfältigen und dekompilieren, um Interoperabilität herstellen zu können, da
+Anne darf ohne Zustimmung durch Benjamin Tangens vervielfältigen und dekompilieren, um Interoperabilität herstellen zu können, da
 - sie selbst das vornimmt
 - die Informationen anders nicht zu erhalten sind
 - sie ihre Handlungen auf das notwendige Maß beschränkt
 nach [§69e Abs. 1 UrhG][UG_69e]
 
-A darf nicht ... [§69e Abs. 2 UrhG][UG_69e]
+Anne darf nicht ... [§69e Abs. 2 UrhG][UG_69e]
 
-B darf die Dekompilierung nicht durch Lizens-(Vertrags-)bestimmungen ausschließen, nach [§69g Abs. 2 UrhG][UG_69g]
+Benjamin darf die Dekompilierung nicht durch Lizens-(Vertrags-)bestimmungen ausschließen, nach [§69g Abs. 2 UrhG][UG_69g]
+
+Wenn Anne Tangens "nachbessert", droht
+- Unterlassung nach [§97 Abs. 1 UrhG][UG_97]
+- Schadensersatz nach [§97 Abs. 2 UrhG][UG_97]
 
 ###### Meine Zusätze
 
