@@ -273,9 +273,13 @@ läuft?
 
 Tangens (T) ist ein Computerprogramm und geschützt, da schöpferische Leistung nach [§69a Abs. 1,3 UrhG][UG_69a]
 
-Benjamin (B) ist Urheber und Rechtsinhaber von Tangens (T)
+Benjamin (B) ist Urheber und Rechtsinhaber von Tangens (T) nach [§7 UrhG][UG_7]
 
 Anne (A) möchte Tangens (T) editieren, so dass es auf dem Betriebssystem Deformer (D) läuft.
+
+Nach [§69c Abs. 2 UrhG][UG_69c] ist die Bearbeitung eines Computerprogrammes nur mit Zustimmung des Rechtsinhabers erlaubt.
+
+Sollte es sich bei der Bearbeitung um eine Fehlerberichtigung handeln, so greift [§69d Abs. 1 UrhG][UG_69d]
 
 [KUG_22]: https://dejure.org/gesetze/KunstUrhG/22.html
 [KUG_23]: https://dejure.org/gesetze/KunstUrhG/23.html
@@ -291,6 +295,7 @@ Anne (A) möchte Tangens (T) editieren, so dass es auf dem Betriebssystem Deform
 [UG_69a]: https://dejure.org/gesetze/UrhG/69a.html
 [UG_69b]: https://dejure.org/gesetze/UrhG/69b.html
 [UG_69c]: https://dejure.org/gesetze/UrhG/69c.html
+[UG_69d]: https://dejure.org/gesetze/UrhG/69d.html
 [UG_69f]: https://dejure.org/gesetze/UrhG/69f.html
 [UG_87a]: https://dejure.org/gesetze/UrhG/87a.html
 [UG_87b]: https://dejure.org/gesetze/UrhG/87b.html
