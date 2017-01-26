@@ -321,6 +321,19 @@ F entgegnet, dass ja nicht der Ablaufplan weiterverbreitet wurde. Welche
 Ansprüche hat E? Begründen Sie, ob die vier Schutzkriterien erfüllt sind.
 </b>
 
+
+###### Meine Zusätze
+
+Programm (P) ist ein Computerprogramm nach [§69a Abs. 1 UrhG][UG_69a] und genießt Schutz nach [§69a Abs. 3 UrhG][UG_69a], da persönliche geistige Schöpfung
+
+Obwohl P auf dem Ablaufplan entstanden ist, so genießt es trotzdem selbstständig Schutz im Sinne des Urheberrechts nach [§3 UrhG][UG_3]
+
+Firma (F) ist Urheber und Rechtsinhaber von Programm (P) nach [§7 UrhG][UG_7]
+
+F verkauft 8 Exemplare von P an andere Firmen
+
+F ist Rechtsinhaber, weswegen der Verkauf rechtsmäßig ist.
+
 Der Ablaufplan für P stellt selbst kein Computerprogramm dar und ist deswegen nicht geschützt nach [§69a Abs. 2 UrhG][UG_69a]
 
 [KUG_22]: https://dejure.org/gesetze/KunstUrhG/22.html
