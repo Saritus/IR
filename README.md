@@ -205,7 +205,7 @@ Benjamin (B) ist Urheber und Rechtsinhaber ([§69b UrhG][ug_69b] greift nicht) v
 
 Benjamin muss keine weiteren Informationen an Anne herausgeben, da bestimmungsgemäße Nutzung gegeben ist (keine Regelung im UrhG, Schuldrecht ist erfüllt)
 
-Anne will Tangens (T) vervielfältigen ([§69c Nr. 1 UrhG][ug_69c]) und bearbeiten ([§69c Nr. 2 UrhG][ug_69c]) und benötigt dafür die Zustimmung von B
+Anne will Tangens (T) vervielfältigen ([§69c Nr. 1 UrhG][ug_69c]) und bearbeiten ([§69c Nr. 2 UrhG][ug_69c]) und benötigt dafür die Zustimmung von Benjamin
 
 Anpassung an Deformer (D) ist keine Fehlerbehebung und keine bestimmungsgemäße Nutzung, das heißt Schrankenbestimmungen nach [§69d Abs. 1 UrhG][ug_69d] greift nicht.
 
@@ -225,14 +225,6 @@ Wenn Anne Tangens "nachbessert", droht
 
 - Unterlassung nach [§97 Abs. 1 UrhG][ug_97]
 - Schadensersatz nach [§97 Abs. 2 UrhG][ug_97]
-
-## Meine Zusätze
-
-Anne (A) möchte Tangens (T) editieren, so dass es auf dem Betriebssystem Deformer (D) läuft.
-
-Nach [§69c Abs. 2 UrhG][ug_69c] ist die Bearbeitung eines Computerprogrammes nur mit Zustimmung des Rechtsinhabers erlaubt.
-
-Sollte es sich bei der Bearbeitung um eine Fehlerberichtigung handeln, so greift [§69d Abs. 1 UrhG][ug_69d]
 
 --------------------------------------------------------------------------------
 
