@@ -236,43 +236,44 @@ Sollte es sich bei der Bearbeitung um eine Fehlerberichtigung handeln, so greift
 
 **Entwickler E erarbeitet im Rahmen eines Werkvertrages einen Ablaufplan eines Logistikprogramms für die Firma F, der vom Auftraggeber F später zu einem lauffähigen Programm weiterverarbeitet werden soll – so steht es im Vertrag. Nach Übergabe entwickelt F auf Grundlage des Ablaufplans das Programm P und setzt es zunächst für sich ein. Einige Partnerfirmen haben auch Interesse am Logistikprogramm. F verkauft 8 Exemplare von P zum Preis von je 3000 Euro. E sieht sich als Miturheber von P und verlangt insgesamt 5000 Euro Beteiligung an den bisherigen Verkäufen und bittet, die Verwertung künftig mit ihm abzustimmen. F entgegnet, dass ja nicht der Ablaufplan weiterverbreitet wurde. Welche Ansprüche hat E? Begründen Sie, ob die vier Schutzkriterien erfüllt sind.**
 
-Ablaufplan ist als Entwurfsmaterial ein Computerprogramm und damit geschützt nach [§69a Abs. 1 UrhG][UG_69a]
+Ablaufplan ist als Entwurfsmaterial ein Computerprogramm und damit geschützt nach [§69a Abs. 1 UrhG][ug_69a]
 
 Vier Schutzkriterien:
+
 - Persönliche geistige Schöpfung ist anzunehmen
 - Ablaufplan hat wahrnehmbare Form, da F damit weiterarbeitet
 - Individualität ist anzunehmen, da ein anderer Entwickler andere Lösung gebracht hätte
 - Geistiger Gehalt, da vom Menschen entwickelt wurde
 
-Ablaufplan genießt Schutz nach [§69a Abs. 3 UrhG][UG_69a]
+Ablaufplan genießt Schutz nach [§69a Abs. 3 UrhG][ug_69a]
 
-Urheber und Rechtsinhaber des Ablaufplans ist Entwickler E nach [§7 UrhG][UG_7]
+Urheber und Rechtsinhaber des Ablaufplans ist Entwickler E nach [§7 UrhG][ug_7]
 
-F bearbeitet den Ablaufplan und erstellt daraus Programm P im Sinne von [§69c Nr. 2 UrhG][UG_69c]
+F bearbeitet den Ablaufplan und erstellt daraus Programm P im Sinne von [§69c Nr. 2 UrhG][ug_69c]
 
 F benötigt hierfür Zustimmung von E
 
 Zustimmung kann als Folge der vertraglichen Vereinbarung angenommen werden
 
-F ist Urheber und Rechtsinhaber von P nach [§7 UrhG][UG_7], da P neues geschütztes Werk darstellt, unabhängig vom Ablaufplan, nach [§3 Abs. 1 UrhG][UG_3]
+F ist Urheber und Rechtsinhaber von P nach [§7 UrhG][ug_7], da P neues geschütztes Werk darstellt, unabhängig vom Ablaufplan, nach [§3 Abs. 1 UrhG][ug_3]
 
 E ist nicht Miturheber von P, weil kein gewolltes Zusammenwirken nach [§8 Abs. 1 UrhG][UG_8] feststellbar ist, denn F hat alleine den Ablaufplan bearbeitet
 
-E kann seinen Anspruch gegen F nicht durchsetzen, da F alleiniger Urheber und Rechtsinhaber an P ist nach [§3 Abs. 1 UrhG][UG_3]
+E kann seinen Anspruch gegen F nicht durchsetzen, da F alleiniger Urheber und Rechtsinhaber an P ist nach [§3 Abs. 1 UrhG][ug_3]
 
 ## Meine Zusätze
 
-Programm (P) ist ein Computerprogramm nach [§69a Abs. 1 UrhG][UG_69a] und genießt Schutz nach [§69a Abs. 3 UrhG][UG_69a], da persönliche geistige Schöpfung
+Programm (P) ist ein Computerprogramm nach [§69a Abs. 1 UrhG][ug_69a] und genießt Schutz nach [§69a Abs. 3 UrhG][ug_69a], da persönliche geistige Schöpfung
 
-Obwohl P auf dem Ablaufplan entstanden ist, so genießt es trotzdem selbstständig Schutz im Sinne des Urheberrechts nach [§3 UrhG][UG_3]
+Obwohl P auf dem Ablaufplan entstanden ist, so genießt es trotzdem selbstständig Schutz im Sinne des Urheberrechts nach [§3 UrhG][ug_3]
 
-Firma (F) ist Urheber und Rechtsinhaber von Programm (P) nach [§7 UrhG][UG_7]
+Firma (F) ist Urheber und Rechtsinhaber von Programm (P) nach [§7 UrhG][ug_7]
 
 F verkauft 8 Exemplare von P an andere Firmen
 
 F ist Rechtsinhaber, weswegen der Verkauf Rechtsmäßig ist.
 
-Der Ablaufplan für P stellt selbst kein Computerprogramm dar und ist deswegen nicht geschützt nach [§69a Abs. 2 UrhG][UG_69a]
+Der Ablaufplan für P stellt selbst kein Computerprogramm dar und ist deswegen nicht geschützt nach [§69a Abs. 2 UrhG][ug_69a]
 
 --------------------------------------------------------------------------------
 
