@@ -311,6 +311,7 @@ Entfernung des Hinweises ist laut [§16 Abs. 2 Nr. 2][tmg_16] & [§16 Abs. 3 TMG
 [ug_69f]: https://dejure.org/gesetze/UrhG/69f.html
 [ug_69g]: https://dejure.org/gesetze/UrhG/69g.html
 [ug_7]: https://dejure.org/gesetze/UrhG/7.html
+[ug_8]: https://dejure.org/gesetze/UrhG/8.html
 [ug_87a]: https://dejure.org/gesetze/UrhG/87a.html
 [ug_87b]: https://dejure.org/gesetze/UrhG/87b.html
 [ug_87c]: https://dejure.org/gesetze/UrhG/87c.html
