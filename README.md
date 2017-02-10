@@ -13,20 +13,19 @@
 
 **Herr A hat als angestellter Softwarearchitekt bei einem Hersteller eine Vielzahl von Funktionen eines Datenbankmanagementsystems implementiert. Als der Hersteller einen neuen Geschäftsführer bekommt, behauptet dieser, das Unternehmen sei Urheber aller von den Angestellten im Rahmen ihrer Arbeitsverhältnisse geschaffenen Programmroutinen. Hat er Recht? Verletzt A das Urheberrecht, wenn er das System daheim installiert und für die Verwaltung seiner privaten DVD-Sammlung einsetzt?**
 
-DBMS ist Computerprogramm und geschützt nach [§69a UrhG][UG_69a]
+DBMS ist Computerprogramm und geschützt nach [§69a UrhG][ug_69a]
 
-A ist Urheber nach [§7 UrhG][UG_7]
+A ist Urheber nach [§7 UrhG][ug_7]
 
-Hersteller ist Rechtsinhaber nach [§69b UrhG][UG_69b]
+Hersteller ist Rechtsinhaber nach [§69b UrhG][ug_69b]
 
-Installation ist Vervielfältigung nach [§69c Nr. 1 UrhG][UG_69c]
+Installation ist Vervielfältigung nach [§69c Nr. 1 UrhG][ug_69c]
 
-Nutzbarmachung für eigene Zwecke könnte Bearbeitung bzw. Arrangement sein nach [§69c Nr. 2 UrhG][UG_69c]
+Nutzbarmachung für eigene Zwecke könnte Bearbeitung bzw. Arrangement sein nach [§69c Nr. 2 UrhG][ug_69c]
 
-A führt diese Handlungen aus, ohne Rechtsinhaber zu sein und ohne Zustimmung des Rechtsinhabers
--> Rechtsverletzung durch A
+A führt diese Handlungen aus, ohne Rechtsinhaber zu sein und ohne Zustimmung des Rechtsinhabers -> Rechtsverletzung durch A
 
-Vernichtung / Deinstallation der Kopie nach [§69f Abs. 1 UrhG][UG_69f]
+Vernichtung / Deinstallation der Kopie nach [§69f Abs. 1 UrhG][ug_69f]
 
 --------------------------------------------------------------------------------
 
