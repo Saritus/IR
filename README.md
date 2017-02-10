@@ -286,12 +286,15 @@ Der Ablaufplan für P stellt selbst kein Computerprogramm dar und ist deswegen n
 **Viktor (V) betreibt einen Online-Versandhandel. Er möchte das Kundenverhalten auf seinen Internetseiten untersuchen, um seine Werbestrategie zu verbessern. Viktor schneidet das Nutzungsverhalten mit, verwendet dabei aber Pseudonyme, weil er keinen Ärger bezüglich Datenschutz will. Die protokollierten Seiten enthalten einen Hinweistext, dass das Nutzungsverhalten pseudonym ausgewertet werde. Ein Besucher der Seite beschwert sich, er habe nie eingewilligt, dass diese Daten erfasst werden. Braucht Viktor die Einwilligung der Nutzer in die Profilerstellung? Werden Rechte des Nutzers verletzt? Ein Freund rät Viktor, den Hinweis zu entfernen, damit es weniger Beschwerden gibt. Darf der Hinweis entfernt werden? Drohen Rechtsfolgen?**
 
 §15 Abs. 3 TMG: erlaubt Erhebungen, wenn kein Wiederspruch vom Nutzer besteht (§13 Abs. 1 Regelt und Fordert das der Nutzer auf die Erhebung hingewiesen werden muss).
+
 §15 Abs. 3 TMG: Bei Wiederspruch erlischt die Erlaubnis.
-Entfernung des Hinweises ist laut §16 Abs. 2 Nr. 2 & §16 Abs. 3 TMG eine Ordnungswidrigkeit (bis zu 50000€ Busgeld).
+
+Entfernung des Hinweises ist laut [§16 Abs. 2 Nr. 2 & §16 Abs. 3 TMG][tmg_16] eine Ordnungswidrigkeit (bis zu 50000€ Busgeld).
 
 
 [kug_22]: https://dejure.org/gesetze/KunstUrhG/22.html
 [kug_23]: https://dejure.org/gesetze/KunstUrhG/23.html
+[tmg_16]: https://dejure.org/gesetze/TMG/16.html
 [ug_15]: https://dejure.org/gesetze/UrhG/15.html
 [ug_17]: https://dejure.org/gesetze/UrhG/17.html
 [ug_2]: https://dejure.org/gesetze/UrhG/2.html
