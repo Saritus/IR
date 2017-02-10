@@ -138,59 +138,64 @@ Irreführende rechtliche Handlung nach [§5 UWG][UWG_5]
 
 **Auf Basis eines Werkvertrages erarbeitet der Jurist Schulze (S) für die Informatikfirma Makronom (M) den lauffähigen Prototyp eines Rechtsrecherchesystems Topcases (R) mit einer bisher noch nicht bekannten Auswahl und Präsentation wesentlicher Gerichtsentscheidungen zu auswählbaren Rechtsgebieten. Makronom realisiert das System auf CD-ROM und erreicht damit einen unerwartet hohen Umsatz.**
 
-Topcases \(R\) ist ein Computerprogramm und geschützt, da schöpferische Leistung nach [§69a Abs. 1,3 UrhG][UG_69a]
+Topcases (R) ist ein Computerprogramm und geschützt, da schöpferische Leistung nach [§69a Abs. 1,3 UrhG][ug_69a]
 
-Urheber und Rechtsinhaber ist Schulze (S) nach [§7 UrhG][UG_7], [§69b UrhG][UG_69b] greift nicht
+Urheber und Rechtsinhaber ist Schulze (S) nach [§7 UrhG][ug_7], [§69b UrhG][ug_69b] greift nicht
 
-Sammlung wesentlicher Gerichtsentscheidungen ist Datenbankwerk nach [§4 Abs. 2 UrhG][UG_4] weil:
+Sammlung wesentlicher Gerichtsentscheidungen ist Datenbankwerk nach [§4 Abs. 2 UrhG][ug_4] weil:
 
-- Sammelwerk nach [§4 Abs. 2 UrhG][UG_4]
+- Sammelwerk nach [§4 Abs. 2 UrhG][ug_4]
 - Elemente einzeln zugänglich mittels Recherche
 - Elemente systematisch angeordnet, da Suche möglich
 
-Urheber und Rechtsinhaber ist Schulze nach [§7 UrhG][UG_7]
+Urheber und Rechtsinhaber ist Schulze nach [§7 UrhG][ug_7]
 
-Makronom vervielfältigt und verbreitet Computerprogramm, benötigt dafür Rechte nach [§69c Nr. 1,3 UrhG][UG_69c]
+Makronom vervielfältigt und verbreitet Computerprogramm, benötigt dafür Rechte nach [§69c Nr. 1,3 UrhG][ug_69c]
 
 Wenn im Werkvertrag keine zusätzliche Vereinbarung getroffen sind, besitzt Makronom diese Rechte nicht -> Rechtsverletzung
 
-Makronom hat Datenbankwerk vervielfältigt, verletzt damit Ausschließlichkeitsrecht von Schulze nach [§15 Nr. 1 UrhG][UG_15]
+Makronom hat Datenbankwerk vervielfältigt, verletzt damit Ausschließlichkeitsrecht von Schulze nach [§15 Nr. 1 UrhG][ug_15]
 
-Makronom hat Datenbankwerk verbreitet, verletzt damit Ausschließlichkeitsrecht zur Verbreitung von Schulze nach [§15 Nr. 2 UrhG][UG_15]
+Makronom hat Datenbankwerk verbreitet, verletzt damit Ausschließlichkeitsrecht zur Verbreitung von Schulze nach [§15 Nr. 2 UrhG][ug_15]
 
-Achtung: Bereits Anbieten ist Verbreitung nach [§17 Abs. 1 UrhG][UG_17]
+Achtung: Bereits Anbieten ist Verbreitung nach [§17 Abs. 1 UrhG][ug_17]
 
 Schrankenbestimmungen:
-- Sicherheitskopie / Recht auf Privatkopie nach [§53 UrhG][UG_53] greift nicht
-- Bearbeitung Datenbankwerk [§55a UrhG][UG_55a] greift nicht
+
+- Sicherheitskopie / Recht auf Privatkopie nach [§53 UrhG][ug_53] greift nicht
+- Bearbeitung Datenbankwerk [§55a UrhG][ug_55a] greift nicht
 
 **(a) Jurist Schulze, der über die Praxiseinführung nicht informiert wurde, fordert von Makronom Herausgabe des erzielten Gewinns. Zu Recht?**
 
 Makronom verletzt Schulzes Rechte an
-- Computerprogramm nach [§69c Nr. 1,3 UrhG][UG_69c]
-- Datenbankwerk nach [§15 Nr. 1,2 UrhG][UG_15]
+
+- Computerprogramm nach [§69c Nr. 1,3 UrhG][ug_69c]
+- Datenbankwerk nach [§15 Nr. 1,2 UrhG][ug_15]
+
 wenn im Werkvertrag keine zusätzlichen Absprachen getroffen wurden.
 
 Schulze hat Anspruch auf Schadensersatz in Höhe
 
-- des Schulze entstandenen Schadens nach [§97 Abs. 2 Satz 1 UrhG][UG_97]
-- der an Schulze zu zahlende Vergütung nach [§97 Abs. 2 Satz 3 UrhG][UG_97]
-- zusätzlichen Gewinns von Makronom aus Rechtsverletzung nach [§97 Abs. 2 Satz 2 UrhG][UG_97]
+- des Schulze entstandenen Schadens nach [§97 Abs. 2 Satz 1 UrhG][ug_97]
+- der an Schulze zu zahlende Vergütung nach [§97 Abs. 2 Satz 3 UrhG][ug_97]
+- zusätzlichen Gewinns von Makronom aus Rechtsverletzung nach [§97 Abs. 2 Satz 2 UrhG][ug_97]
 
 **(b) Jurist Schulze brennt die Sammlung von Gerichtsentscheidungen mehrfach auf CD-ROM und verschenkt sie an andere Juristen auf einem Kongress. Makronom fordert Schadensersatz von Schulze. Zu Recht?**
 
 Schulze nimmt sein ausschließliches Recht zur
-- Vervielfältigung nach [§15 Nr. 1 UrhG][UG_15]
-- Verbreitung nach [§15 Nr. 2 UrhG][UG_15]
+
+- Vervielfältigung nach [§15 Nr. 1 UrhG][ug_15]
+- Verbreitung nach [§15 Nr. 2 UrhG][ug_15]
+
 des Datenbankwerkes wahr
 
 **(c) Der Jurist Tietz (T) kauft Topcases und kopiert einzelne darin enthaltene Gerichtsentscheidungen als Word-Dateien. Sind Schulze oder Makronom berechtigt, das Kopieren zu verbieten?**
 
 Tietz ist zur Nutzung des Recherchesystems berechtigt
 
-Tietz vervielfältigt und verbreitet nach Art und Umfang nicht wesentliche Teile der Datenbank, nicht unzulässig nach [§87b UrhG][UG_87b]
+Tietz vervielfältigt und verbreitet nach Art und Umfang nicht wesentliche Teile der Datenbank, nicht unzulässig nach [§87b UrhG][ug_87b]
 
-Gerichtsurteile als solche sind als amtliche Werke nicht geschützt nach [§5 UrhG][UG_5]
+Gerichtsurteile als solche sind als amtliche Werke nicht geschützt nach [§5 UrhG][ug_5]
 
 --------------------------------------------------------------------------------
 
