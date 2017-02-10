@@ -280,6 +280,8 @@ F ist Rechtsinhaber, weswegen der Verkauf Rechtsmäßig ist.
 
 Der Ablaufplan für P stellt selbst kein Computerprogramm dar und ist deswegen nicht geschützt nach [§69a Abs. 2 UrhG][UG_69a]
 
+--------------------------------------------------------------------------------
+
 # 8.
 
 **Viktor (V) betreibt einen Online-Versandhandel. Er möchte das Kundenverhalten auf seinen Internetseiten untersuchen, um seine Werbestrategie zu verbessern. Viktor schneidet das Nutzungsverhalten mit, verwendet dabei aber Pseudonyme, weil er keinen Ärger bezüglich Datenschutz will. Die protokollierten Seiten enthalten einen Hinweistext, dass das Nutzungsverhalten pseudonym ausgewertet werde. Ein Besucher der Seite beschwert sich, er habe nie eingewilligt, dass diese Daten erfasst werden. Braucht Viktor die Einwilligung der Nutzer in die Profilerstellung? Werden Rechte des Nutzers verletzt? Ein Freund rät Viktor, den Hinweis zu entfernen, damit es weniger Beschwerden gibt. Darf der Hinweis entfernt werden? Drohen Rechtsfolgen?**
@@ -308,5 +310,3 @@ Der Ablaufplan für P stellt selbst kein Computerprogramm dar und ist deswegen n
 [UG_97]: https://dejure.org/gesetze/UrhG/97.html
 [UWG_3]: https://dejure.org/gesetze/UWG/3.html
 [UWG_5]: https://dejure.org/gesetze/UWG/5.html
---------------------------------------------------------------------------------
-# 8.
