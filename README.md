@@ -195,13 +195,13 @@ Gerichtsurteile als solche sind als amtliche Werke nicht geschützt nach [§5 Ur
 
 --------------------------------------------------------------------------------
 
+# 6.
+
 **Anne (A) kauft das Tabellenkalkulationsprogramm Tangens (T) für das Betriebssystem Exoid (E). Sie möchte es gern auf ihrem Tablet- Computer einsetzen, jedoch läuft es nicht unter dem dort eingesetzten Open-Source-Betriebssystem Deformer (D), für welches u. a. ein unentgeltliches Bearbeitungsrecht gegenüber jedermann eingeräumt ist. Anne fragt bei Benjamin (B), dem selbständigen Entwickler von Tangens, an, um einige nicht in den Programmunterlagen enthaltene, für den Einsatz unter Deformer notwendige Zusatzinformationen zu erhalten. Benjamin verweigert die Information, weil es bei der Umstellung auf Deformer nicht um eine Fehlerberichtigung gehe. Wie ist die Rechtslage? Ist Benjamin zur Herausgabe der Zusatzinformationen verpflichtet? Was kann Anne tun, um ihr Ziel ohne weitere Kooperation von Benjamin und ohne Rechtsverletzung zu erreichen? Kann Benjamin das von Ihnen vorgeschlagene Vorgehen vertraglich wirksam ausschließen? Drohen Rechtsfolgen, wenn Anne Tangens „nachbessert", damit es unter Deformer läuft?**
 
 Tangens (T) ist ein Computerprogramm nach [§69a Abs. 1 UrhG][ug_69a] und genießt Schutz nach [§69a Abs. 3 UrhG][ug_69a], da persönliche geistige Schöpfung
 
 Benjamin (B) ist Urheber und Rechtsinhaber ([§69b UrhG][ug_69b] greift nicht) von Tangens (T) nach [§7 UrhG][ug_7]
-
-# 6.
 
 Benjamin muss keine weiteren Informationen an Anne herausgeben, da bestimmungsgemäße Nutzung gegeben ist (keine Regelung im UrhG, Schuldrecht ist erfüllt)
 
