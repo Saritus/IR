@@ -11,9 +11,8 @@
 
 # 1.
 
-<b>
-Herr A hat als angestellter Softwarearchitekt bei einem Hersteller eine Vielzahl von Funktionen eines Datenbankmanagementsystems implementiert. Als der Hersteller einen neuen Geschäftsführer bekommt, behauptet dieser, das Unternehmen sei Urheber aller von den Angestellten im Rahmen ihrer Arbeitsverhältnisse geschaffenen Programmroutinen. Hat er Recht? Verletzt A das Urheberrecht, wenn er das System daheim installiert und für die Verwaltung seiner privaten DVD-Sammlung einsetzt?
-</b>
+**Herr A hat als angestellter Softwarearchitekt bei einem Hersteller eine Vielzahl von Funktionen eines Datenbankmanagementsystems implementiert. Als der Hersteller einen neuen Geschäftsführer bekommt, behauptet dieser, das Unternehmen sei Urheber aller von den Angestellten im Rahmen ihrer Arbeitsverhältnisse geschaffenen Programmroutinen. Hat er Recht? Verletzt A das Urheberrecht, wenn er das System daheim installiert und für die Verwaltung seiner privaten DVD-Sammlung einsetzt?**
+
 
 DBMS ist Computerprogramm und geschützt nach [§69a UrhG][UG_69a]
 
@@ -34,9 +33,8 @@ Vernichtung / Deinstallation der Kopie nach [§69f Abs. 1 UrhG][UG_69f]
 
 # 2.
 
-<b>
-Arlt (A) kauft die Software SPX vom Entwickler Ebert (E). Arlt verkauft SPX an Clemens \(C\), ohne eigene Kopien zu behalten, wobei Arlt die Software für Clemens im Internet bereitstellt und Clemens diese herunterlädt. Ebert fordert von Arlt entgangenen Gewinn nach § 97 Absatz 2 UrhG. Zu Recht?
-</b>
+**Arlt (A) kauft die Software SPX vom Entwickler Ebert (E). Arlt verkauft SPX an Clemens (C), ohne eigene Kopien zu behalten, wobei Arlt die Software für Clemens im Internet bereitstellt und Clemens diese herunterlädt. Ebert fordert von Arlt entgangenen Gewinn nach § 97 Absatz 2 UrhG. Zu Recht?**
+
 
 Software SPX ist Computerprogramm und geschützt nach [§69a UrhG][UG_69a]
 
@@ -54,20 +52,8 @@ C muss Original löschen nach [§69f UrhG][UG_69f], dies wurde aber nicht geford
 
 # 3.
 
-<b>
-Der selbständige Informatiker I entwickelt im Auftrag eines Versicherungsunternehmens
-V eine Software S, mit der sich eine regionale
-Übersicht der wahrscheinlichsten Arten von Gewitterzellen darstellen
-lässt. Die zugrundeliegenden Daten bezieht die Software aus dem ETSRegister
-der European Thunderstorm Society, die sämtliche Blitzeinschläge
-über ihr Sensornetzwerk registriert und kostenlos im Internet
-zugänglich macht: Nach der Eingabe von Zeitraum, Ort und Umkreis
-werden dort Blitze nach Zeitpunkt, Einschlagort und Intensität zurückgegeben.
-Darf I die Software S auf CD-ROM brennen und auf einer Computermesse
-verschenken? Welche Rechte benötigt der Versicherer V, um
-die von I übergebene Software für seine Risikoschätzung zu nutzen? Wie
-ist die Rechtslage?
-</b>
+**Der selbständige Informatiker I entwickelt im Auftrag eines Versicherungsunternehmens V eine Software S, mit der sich eine regionale Übersicht der wahrscheinlichsten Arten von Gewitterzellen darstellen lässt. Die zugrundeliegenden Daten bezieht die Software aus dem ETSRegister der European Thunderstorm Society, die sämtliche Blitzeinschläge über ihr Sensornetzwerk registriert und kostenlos im Internet zugänglich macht: Nach der Eingabe von Zeitraum, Ort und Umkreis werden dort Blitze nach Zeitpunkt, Einschlagort und Intensität zurückgegeben. Darf I die Software S auf CD-ROM brennen und auf einer Computermesse verschenken? Welche Rechte benötigt der Versicherer V, um die von I übergebene Software für seine Risikoschätzung zu nutzen? Wie ist die Rechtslage?**
+
 
 Software S ist Computerprogramm und geschützt nach [§69a Abs. 1,3 UrhG][UG_69a]
 
@@ -99,10 +85,7 @@ V benötigt als Berechtigter keine weiteren Rechte
 
 # 4.
 
-<b>
-Die Firma Dataplus (D) bietet auf CD-ROM ein Recherchesystem Regionom
-\(R\) zur wirtschaftlichen Entwicklung regionaler Unternehmen an.
-</b>
+**Die Firma Dataplus (D) bietet auf CD-ROM ein Recherchesystem Regionom (R) zur wirtschaftlichen Entwicklung regionaler Unternehmen an.**
 
 <b>
 (a) Braucht Dataplus die Erlaubnis der Unternehmen, wenn es<br />
@@ -132,14 +115,8 @@ Firmenlogo:
 GGV Gemeinschaftsgeschmacksmusterverordnung Artikel 6
 Inhaber eines Geschmacksmusters darf Benutzung verbieten
 
-<b>
-(b) Nutzer Norbert (N) übernimmt gegen Bezahlung ein Regionom-
-Exemplar (Kopie), kopiert daraus eine mit Standardeinstellungen in
-Excel von Dataplus erstellte Geschäftsgrafik zum Umsatz des Unternehmens
-Zimmermann und übernimmt diese in ein eigenes kommerziell
-vertriebenes System. Dataplus fordert von Norbert Unterlassung
-und droht Schadensersatzforderungen an. Zu Recht?
-</b>
+**(b) Nutzer Norbert (N) übernimmt gegen Bezahlung ein Regionom- Exemplar (Kopie), kopiert daraus eine mit Standardeinstellungen in Excel von Dataplus erstellte Geschäftsgrafik zum Umsatz des Unternehmens Zimmermann und übernimmt diese in ein eigenes kommerziell vertriebenes System. Dataplus fordert von Norbert Unterlassung und droht Schadensersatzforderungen an. Zu Recht?**
+
 
 Grafik wurde mit Standardeinstellungen erzeugt
 -> Keine persönliche geistige Schöpfung
@@ -147,14 +124,8 @@ Grafik wurde mit Standardeinstellungen erzeugt
 
 Unlautere geschäftliche Handlung nach [§3 UWG][UWG_3] ?
 
-<b>
-\(c\) Norbert konzipiert die Entwicklung eines online nutzbaren Auskunftsdienstes
-Ecoplus (E), der auch die Recherche in Regionom
-ermöglichen soll. Dataplus erfährt, dass Norbert bereits für den neuen
-Auskunftsdienst wirbt, und fordert von Norbert Unterlassung der
-Werbung sowie der Einbeziehung von Regionom in den Auskunftsdienst.
-Zu Recht?
-</b>
+**(c) Norbert konzipiert die Entwicklung eines online nutzbaren Auskunftsdienstes Ecoplus (E), der auch die Recherche in Regionom ermöglichen soll. Dataplus erfährt, dass Norbert bereits für den neuen Auskunftsdienst wirbt, und fordert von Norbert Unterlassung der Werbung sowie der Einbeziehung von Regionom in den Auskunftsdienst. Zu Recht?**
+
 
 Regionom ist Datenbank nach [§87a UrhG][UG_87a]
 
@@ -171,15 +142,7 @@ Irreführende rechtliche Handlung nach [§5 UWG][UWG_5]
 
 # 5.
 
-<b>
-Auf Basis eines Werkvertrages erarbeitet der Jurist Schulze (S) für die
-Informatikfirma Makronom (M) den lauffähigen Prototyp eines Rechtsrecherchesystems
-Topcases \(R\) mit einer bisher noch nicht bekannten
-Auswahl und Präsentation wesentlicher Gerichtsentscheidungen zu auswählbaren
-Rechtsgebieten.
-Makronom realisiert das System auf CD-ROM und erreicht damit einen
-unerwartet hohen Umsatz.
-</b>
+**Auf Basis eines Werkvertrages erarbeitet der Jurist Schulze (S) für die Informatikfirma Makronom (M) den lauffähigen Prototyp eines Rechtsrecherchesystems Topcases (R) mit einer bisher noch nicht bekannten Auswahl und Präsentation wesentlicher Gerichtsentscheidungen zu auswählbaren Rechtsgebieten. Makronom realisiert das System auf CD-ROM und erreicht damit einen unerwartet hohen Umsatz.**
 
 Topcases \(R\) ist ein Computerprogramm und geschützt, da schöpferische Leistung nach [§69a Abs. 1,3 UrhG][UG_69a]
 
@@ -207,11 +170,7 @@ Schrankenbestimmungen:
 - Sicherheitskopie / Recht auf Privatkopie nach [§53 UrhG][UG_53] greift nicht
 - Bearbeitung Datenbankwerk [§55a UrhG][UG_55a] greift nicht
 
-<b>
-(a) Jurist Schulze, der über die Praxiseinführung nicht informiert wurde,
-fordert von Makronom Herausgabe des erzielten Gewinns. Zu
-Recht?
-</b>
+**(a) Jurist Schulze, der über die Praxiseinführung nicht informiert wurde, fordert von Makronom Herausgabe des erzielten Gewinns. Zu Recht?**
 
 Makronom verletzt Schulzes Rechte an
 - Computerprogramm nach [§69c Nr. 1,3 UrhG][UG_69c]
@@ -224,23 +183,14 @@ Schulze hat Anspruch auf Schadensersatz in Höhe
 - der an Schulze zu zahlende Vergütung nach [§97 Abs. 2 Satz 3 UrhG][UG_97]
 - zusätzlichen Gewinns von Makronom aus Rechtsverletzung nach [§97 Abs. 2 Satz 2 UrhG][UG_97]
 
-<b>
-(b) Jurist Schulze brennt die Sammlung von Gerichtsentscheidungen
-mehrfach auf CD-ROM und verschenkt sie an andere Juristen auf
-einem Kongress. Makronom fordert Schadensersatz von Schulze.
-Zu Recht?
-</b>
+**(b) Jurist Schulze brennt die Sammlung von Gerichtsentscheidungen mehrfach auf CD-ROM und verschenkt sie an andere Juristen auf einem Kongress. Makronom fordert Schadensersatz von Schulze. Zu Recht?**
 
 Schulze nimmt sein ausschließliches Recht zur
 - Vervielfältigung nach [§15 Nr. 1 UrhG][UG_15]
 - Verbreitung nach [§15 Nr. 2 UrhG][UG_15]
 des Datenbankwerkes wahr
 
-<b>
-\(c\) Der Jurist Tietz (T) kauft Topcases und kopiert einzelne darin enthaltene
-Gerichtsentscheidungen als Word-Dateien. Sind Schulze oder
-Makronom berechtigt, das Kopieren zu verbieten?
-</b>
+**(c) Der Jurist Tietz (T) kauft Topcases und kopiert einzelne darin enthaltene Gerichtsentscheidungen als Word-Dateien. Sind Schulze oder Makronom berechtigt, das Kopieren zu verbieten?**
 
 Tietz ist zur Nutzung des Recherchesystems berechtigt
 
@@ -250,29 +200,12 @@ Gerichtsurteile als solche sind als amtliche Werke nicht geschützt nach [§5 Ur
 
 --------------------------------------------------------------------------------
 
-
-<b>
-Anne (A) kauft das Tabellenkalkulationsprogramm Tangens (T) für
-das Betriebssystem Exoid (E). Sie möchte es gern auf ihrem Tablet-
-Computer einsetzen, jedoch läuft es nicht unter dem dort eingesetzten
-Open-Source-Betriebssystem Deformer (D), für welches u. a. ein unentgeltliches
-Bearbeitungsrecht gegenüber jedermann eingeräumt ist. Anne
-fragt bei Benjamin (B), dem selbständigen Entwickler von Tangens,
-an, um einige nicht in den Programmunterlagen enthaltene, für den Einsatz
-unter Deformer notwendige Zusatzinformationen zu erhalten. Benjamin
-verweigert die Information, weil es bei der Umstellung auf Deformer
-nicht um eine Fehlerberichtigung gehe. Wie ist die Rechtslage? Ist Benjamin
-zur Herausgabe der Zusatzinformationen verpflichtet? Was kann
-Anne tun, um ihr Ziel ohne weitere Kooperation von Benjamin und ohne
-Rechtsverletzung zu erreichen? Kann Benjamin das von Ihnen vorgeschlagene
-Vorgehen vertraglich wirksam ausschließen? Drohen Rechtsfolgen,
-wenn Anne Tangens „nachbessert“, damit es unter Deformer
-läuft?
-</b>
+**Anne (A) kauft das Tabellenkalkulationsprogramm Tangens (T) für das Betriebssystem Exoid (E). Sie möchte es gern auf ihrem Tablet- Computer einsetzen, jedoch läuft es nicht unter dem dort eingesetzten Open-Source-Betriebssystem Deformer (D), für welches u. a. ein unentgeltliches Bearbeitungsrecht gegenüber jedermann eingeräumt ist. Anne fragt bei Benjamin (B), dem selbständigen Entwickler von Tangens, an, um einige nicht in den Programmunterlagen enthaltene, für den Einsatz unter Deformer notwendige Zusatzinformationen zu erhalten. Benjamin verweigert die Information, weil es bei der Umstellung auf Deformer nicht um eine Fehlerberichtigung gehe. Wie ist die Rechtslage? Ist Benjamin zur Herausgabe der Zusatzinformationen verpflichtet? Was kann Anne tun, um ihr Ziel ohne weitere Kooperation von Benjamin und ohne Rechtsverletzung zu erreichen? Kann Benjamin das von Ihnen vorgeschlagene Vorgehen vertraglich wirksam ausschließen? Drohen Rechtsfolgen, wenn Anne Tangens „nachbessert", damit es unter Deformer läuft?**
 
 Tangens (T) ist ein Computerprogramm nach [§69a Abs. 1 UrhG][UG_69a] und genießt Schutz nach [§69a Abs. 3 UrhG][UG_69a], da persönliche geistige Schöpfung
 
 Benjamin (B) ist Urheber und Rechtsinhaber ([§69b UrhG][UG_69b] greift nicht) von Tangens (T) nach [§7 UrhG][UG_7]
+
 # 6.
 
 Benjamin muss keine weiteren Informationen an Anne herausgeben, da bestimmungsgemäße Nutzung gegeben ist (keine Regelung im UrhG, Schuldrecht ist erfüllt)
@@ -307,19 +240,7 @@ Sollte es sich bei der Bearbeitung um eine Fehlerberichtigung handeln, so greift
 
 # 7.
 
-<b>
-Entwickler E erarbeitet im Rahmen eines Werkvertrages einen Ablaufplan
-eines Logistikprogramms für die Firma F, der vom Auftraggeber F
-später zu einem lauffähigen Programm weiterverarbeitet werden soll –
-so steht es im Vertrag. Nach Übergabe entwickelt F auf Grundlage des
-Ablaufplans das Programm P und setzt es zunächst für sich ein. Einige
-Partnerfirmen haben auch Interesse am Logistikprogramm. F verkauft 8
-Exemplare von P zum Preis von je 3000 Euro. E sieht sich als Miturheber
-von P und verlangt insgesamt 5000 Euro Beteiligung an den bisherigen
-Verkäufen und bittet, die Verwertung künftig mit ihm abzustimmen.
-F entgegnet, dass ja nicht der Ablaufplan weiterverbreitet wurde. Welche
-Ansprüche hat E? Begründen Sie, ob die vier Schutzkriterien erfüllt sind.
-</b>
+**Entwickler E erarbeitet im Rahmen eines Werkvertrages einen Ablaufplan eines Logistikprogramms für die Firma F, der vom Auftraggeber F später zu einem lauffähigen Programm weiterverarbeitet werden soll – so steht es im Vertrag. Nach Übergabe entwickelt F auf Grundlage des Ablaufplans das Programm P und setzt es zunächst für sich ein. Einige Partnerfirmen haben auch Interesse am Logistikprogramm. F verkauft 8 Exemplare von P zum Preis von je 3000 Euro. E sieht sich als Miturheber von P und verlangt insgesamt 5000 Euro Beteiligung an den bisherigen Verkäufen und bittet, die Verwertung künftig mit ihm abzustimmen. F entgegnet, dass ja nicht der Ablaufplan weiterverbreitet wurde. Welche Ansprüche hat E? Begründen Sie, ob die vier Schutzkriterien erfüllt sind.**
 
 Ablaufplan ist als Entwurfsmaterial ein Computerprogramm und damit geschützt nach [§69a Abs. 1 UrhG][UG_69a]
 
@@ -359,11 +280,9 @@ F ist Rechtsinhaber, weswegen der Verkauf Rechtsmäßig ist.
 
 Der Ablaufplan für P stellt selbst kein Computerprogramm dar und ist deswegen nicht geschützt nach [§69a Abs. 2 UrhG][UG_69a]
 
+# 8.
 
-
-<b>
-Viktor (V) betreibt einen Online-Versandhandel. Er möchte das Kundenverhalten auf seinen Internetseiten untersuchen, um seine Werbestrategie zu verbessern. Viktor schneidet das Nutzungsverhalten mit, verwendet dabei aber Pseudonyme, weil er keinen Ärger bezüglich Datenschutz will. Die protokollierten Seiten enthalten einen Hinweistext, dass das Nutzungsverhalten pseudonym ausgewertet werde. Ein Besucher der Seite beschwert sich, er habe nie eingewilligt, dass diese Daten erfasst werden. Braucht Viktor die Einwilligung der Nutzer in die Profilerstellung? Werden Rechte des Nutzers verletzt? Ein Freund rät Viktor, den Hinweis zu entfernen, damit es weniger Beschwerden gibt. Darf der Hinweis entfernt werden? Drohen Rechtsfolgen?
-</b>
+**Viktor (V) betreibt einen Online-Versandhandel. Er möchte das Kundenverhalten auf seinen Internetseiten untersuchen, um seine Werbestrategie zu verbessern. Viktor schneidet das Nutzungsverhalten mit, verwendet dabei aber Pseudonyme, weil er keinen Ärger bezüglich Datenschutz will. Die protokollierten Seiten enthalten einen Hinweistext, dass das Nutzungsverhalten pseudonym ausgewertet werde. Ein Besucher der Seite beschwert sich, er habe nie eingewilligt, dass diese Daten erfasst werden. Braucht Viktor die Einwilligung der Nutzer in die Profilerstellung? Werden Rechte des Nutzers verletzt? Ein Freund rät Viktor, den Hinweis zu entfernen, damit es weniger Beschwerden gibt. Darf der Hinweis entfernt werden? Drohen Rechtsfolgen?**
 
 [KUG_22]: https://dejure.org/gesetze/KunstUrhG/22.html
 [KUG_23]: https://dejure.org/gesetze/KunstUrhG/23.html
