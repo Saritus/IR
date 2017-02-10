@@ -294,6 +294,7 @@ Entfernung des Hinweises ist laut [§16 Abs. 2 Nr. 2 & §16 Abs. 3 TMG][tmg_16] 
 
 [kug_22]: https://dejure.org/gesetze/KunstUrhG/22.html
 [kug_23]: https://dejure.org/gesetze/KunstUrhG/23.html
+[tmg_15]: https://dejure.org/gesetze/TMG/15.html
 [tmg_16]: https://dejure.org/gesetze/TMG/16.html
 [ug_15]: https://dejure.org/gesetze/UrhG/15.html
 [ug_17]: https://dejure.org/gesetze/UrhG/17.html
