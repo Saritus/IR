@@ -1,4 +1,4 @@
-###Ablauf:
+### Ablauf:
 
 - Was ist Schutzgegenstand?
 - Wer ist Urheber?
@@ -9,7 +9,7 @@
 
 ***
 
-###1.
+### 1.
 
 <b>
 Herr A hat als angestellter Softwarearchitekt bei einem Hersteller eine Vielzahl von Funktionen eines Datenbankmanagementsystems implementiert. Als der Hersteller einen neuen Geschäftsführer bekommt, behauptet dieser, das Unternehmen sei Urheber aller von den Angestellten im Rahmen ihrer Arbeitsverhältnisse geschaffenen Programmroutinen. Hat er Recht? Verletzt A das Urheberrecht, wenn er das System daheim installiert und für die Verwaltung seiner privaten DVD-Sammlung einsetzt?
@@ -32,7 +32,7 @@ Vernichtung / Deinstallation der Kopie nach [§69f Abs. 1 UrhG][UG_69f]
 
 ***
 
-###2.
+### 2.
 
 <b>
 Arlt (A) kauft die Software SPX vom Entwickler Ebert (E). Arlt verkauft SPX an Clemens \(C\), ohne eigene Kopien zu behalten, wobei Arlt die Software für Clemens im Internet bereitstellt und Clemens diese herunterlädt. Ebert fordert von Arlt entgangenen Gewinn nach § 97 Absatz 2 UrhG. Zu Recht?
@@ -52,7 +52,7 @@ C muss Original löschen nach [§69f UrhG][UG_69f], dies wurde aber nicht geford
 
 ***
 
-###3.
+### 3.
 
 <b>
 Der selbständige Informatiker I entwickelt im Auftrag eines Versicherungsunternehmens
@@ -97,7 +97,7 @@ V benötigt als Berechtigter keine weiteren Rechte
 
 ***
 
-###4.
+### 4.
 
 <b>
 Die Firma Dataplus (D) bietet auf CD-ROM ein Recherchesystem Regionom
@@ -169,7 +169,7 @@ Irreführende rechtliche Handlung nach [§5 UWG][UWG_5]
 
 ***
 
-###5.
+### 5.
 
 <b>
 Auf Basis eines Werkvertrages erarbeitet der Jurist Schulze (S) für die
@@ -250,7 +250,7 @@ Gerichtsurteile als solche sind als amtliche Werke nicht geschützt nach [§5 Ur
 
 ***
 
-###6.
+### 6.
 
 <b>
 Anne (A) kauft das Tabellenkalkulationsprogramm Tangens (T) für
@@ -305,7 +305,7 @@ Sollte es sich bei der Bearbeitung um eine Fehlerberichtigung handeln, so greift
 
 ***
 
-###7.
+### 7.
 
 <b>
 Entwickler E erarbeitet im Rahmen eines Werkvertrages einen Ablaufplan
@@ -358,6 +358,8 @@ F verkauft 8 Exemplare von P an andere Firmen
 F ist Rechtsinhaber, weswegen der Verkauf Rechtsmäßig ist.
 
 Der Ablaufplan für P stellt selbst kein Computerprogramm dar und ist deswegen nicht geschützt nach [§69a Abs. 2 UrhG][UG_69a]
+
+***
 
 ### 8.
 
