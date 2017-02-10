@@ -33,17 +33,17 @@ Vernichtung / Deinstallation der Kopie nach [§69f Abs. 1 UrhG][ug_69f]
 
 **Arlt (A) kauft die Software SPX vom Entwickler Ebert (E). Arlt verkauft SPX an Clemens (C), ohne eigene Kopien zu behalten, wobei Arlt die Software für Clemens im Internet bereitstellt und Clemens diese herunterlädt. Ebert fordert von Arlt entgangenen Gewinn nach § 97 Absatz 2 UrhG. Zu Recht?**
 
-Software SPX ist Computerprogramm und geschützt nach [§69a UrhG][UG_69a]
+Software SPX ist Computerprogramm und geschützt nach [§69a UrhG][ug_69a]
 
-Entwickler E ist Urheber nach [§7 UrhG][UG_7]
+Entwickler E ist Urheber nach [§7 UrhG][ug_7]
 
-Entwickler E ist Rechtsinhaber nach [§69b UrhG][UG_69b]
+Entwickler E ist Rechtsinhaber nach [§69b UrhG][ug_69b]
 
-Weitergabe des Originals nach [§69c Nr. 1,3,4 UrhG][UG_69c]
+Weitergabe des Originals nach [§69c Nr. 1,3,4 UrhG][ug_69c]
 
 A führt diese Handlung aus, ohne Rechtsinhaber zu sein
 
-C muss Original löschen nach [§69f UrhG][UG_69f], dies wurde aber nicht gefordert
+C muss Original löschen nach [§69f UrhG][ug_69f], dies wurde aber nicht gefordert
 
 --------------------------------------------------------------------------------
 
