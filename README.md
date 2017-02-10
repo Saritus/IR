@@ -295,7 +295,7 @@ Wenn Anne Tangens "nachbessert", droht
 - Unterlassung nach [§97 Abs. 1 UrhG][UG_97]
 - Schadensersatz nach [§97 Abs. 2 UrhG][UG_97]
 
-###### Meine Zusätze
+##### Meine Zusätze
 
 Anne (A) möchte Tangens (T) editieren, so dass es auf dem Betriebssystem Deformer (D) läuft.
 
@@ -345,7 +345,7 @@ E ist nicht Miturheber von P, weil kein gewolltes Zusammenwirken nach [§8 Abs. 
 
 E kann seinen Anspruch gegen F nicht durchsetzen, da F alleiniger Urheber und Rechtsinhaber an P ist nach [§3 Abs. 1 UrhG][UG_3]
 
-###### Meine Zusätze
+##### Meine Zusätze
 
 Programm (P) ist ein Computerprogramm nach [§69a Abs. 1 UrhG][UG_69a] und genießt Schutz nach [§69a Abs. 3 UrhG][UG_69a], da persönliche geistige Schöpfung
 
