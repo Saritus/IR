@@ -13,7 +13,6 @@
 
 **Herr A hat als angestellter Softwarearchitekt bei einem Hersteller eine Vielzahl von Funktionen eines Datenbankmanagementsystems implementiert. Als der Hersteller einen neuen Geschäftsführer bekommt, behauptet dieser, das Unternehmen sei Urheber aller von den Angestellten im Rahmen ihrer Arbeitsverhältnisse geschaffenen Programmroutinen. Hat er Recht? Verletzt A das Urheberrecht, wenn er das System daheim installiert und für die Verwaltung seiner privaten DVD-Sammlung einsetzt?**
 
-
 DBMS ist Computerprogramm und geschützt nach [§69a UrhG][UG_69a]
 
 A ist Urheber nach [§7 UrhG][UG_7]
@@ -35,7 +34,6 @@ Vernichtung / Deinstallation der Kopie nach [§69f Abs. 1 UrhG][UG_69f]
 
 **Arlt (A) kauft die Software SPX vom Entwickler Ebert (E). Arlt verkauft SPX an Clemens (C), ohne eigene Kopien zu behalten, wobei Arlt die Software für Clemens im Internet bereitstellt und Clemens diese herunterlädt. Ebert fordert von Arlt entgangenen Gewinn nach § 97 Absatz 2 UrhG. Zu Recht?**
 
-
 Software SPX ist Computerprogramm und geschützt nach [§69a UrhG][UG_69a]
 
 Entwickler E ist Urheber nach [§7 UrhG][UG_7]
@@ -53,7 +51,6 @@ C muss Original löschen nach [§69f UrhG][UG_69f], dies wurde aber nicht geford
 # 3.
 
 **Der selbständige Informatiker I entwickelt im Auftrag eines Versicherungsunternehmens V eine Software S, mit der sich eine regionale Übersicht der wahrscheinlichsten Arten von Gewitterzellen darstellen lässt. Die zugrundeliegenden Daten bezieht die Software aus dem ETSRegister der European Thunderstorm Society, die sämtliche Blitzeinschläge über ihr Sensornetzwerk registriert und kostenlos im Internet zugänglich macht: Nach der Eingabe von Zeitraum, Ort und Umkreis werden dort Blitze nach Zeitpunkt, Einschlagort und Intensität zurückgegeben. Darf I die Software S auf CD-ROM brennen und auf einer Computermesse verschenken? Welche Rechte benötigt der Versicherer V, um die von I übergebene Software für seine Risikoschätzung zu nutzen? Wie ist die Rechtslage?**
-
 
 Software S ist Computerprogramm und geschützt nach [§69a Abs. 1,3 UrhG][UG_69a]
 
@@ -117,7 +114,6 @@ Inhaber eines Geschmacksmusters darf Benutzung verbieten
 
 **(b) Nutzer Norbert (N) übernimmt gegen Bezahlung ein Regionom- Exemplar (Kopie), kopiert daraus eine mit Standardeinstellungen in Excel von Dataplus erstellte Geschäftsgrafik zum Umsatz des Unternehmens Zimmermann und übernimmt diese in ein eigenes kommerziell vertriebenes System. Dataplus fordert von Norbert Unterlassung und droht Schadensersatzforderungen an. Zu Recht?**
 
-
 Grafik wurde mit Standardeinstellungen erzeugt
 -> Keine persönliche geistige Schöpfung
 -> Kein Schutz nach [§3 UrhG][UG_3]
@@ -125,7 +121,6 @@ Grafik wurde mit Standardeinstellungen erzeugt
 Unlautere geschäftliche Handlung nach [§3 UWG][UWG_3] ?
 
 **(c) Norbert konzipiert die Entwicklung eines online nutzbaren Auskunftsdienstes Ecoplus (E), der auch die Recherche in Regionom ermöglichen soll. Dataplus erfährt, dass Norbert bereits für den neuen Auskunftsdienst wirbt, und fordert von Norbert Unterlassung der Werbung sowie der Einbeziehung von Regionom in den Auskunftsdienst. Zu Recht?**
-
 
 Regionom ist Datenbank nach [§87a UrhG][UG_87a]
 
