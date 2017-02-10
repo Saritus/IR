@@ -51,18 +51,18 @@ C muss Original löschen nach [§69f UrhG][ug_69f], dies wurde aber nicht geford
 
 **Der selbständige Informatiker I entwickelt im Auftrag eines Versicherungsunternehmens V eine Software S, mit der sich eine regionale Übersicht der wahrscheinlichsten Arten von Gewitterzellen darstellen lässt. Die zugrundeliegenden Daten bezieht die Software aus dem ETSRegister der European Thunderstorm Society, die sämtliche Blitzeinschläge über ihr Sensornetzwerk registriert und kostenlos im Internet zugänglich macht: Nach der Eingabe von Zeitraum, Ort und Umkreis werden dort Blitze nach Zeitpunkt, Einschlagort und Intensität zurückgegeben. Darf I die Software S auf CD-ROM brennen und auf einer Computermesse verschenken? Welche Rechte benötigt der Versicherer V, um die von I übergebene Software für seine Risikoschätzung zu nutzen? Wie ist die Rechtslage?**
 
-Software S ist Computerprogramm und geschützt nach [§69a Abs. 1,3 UrhG][UG_69a]
+Software S ist Computerprogramm und geschützt nach [§69a Abs. 1,3 UrhG][ug_69a]
 
-Informatiker I ist Urheber nach [§7 UrhG][UG_7]
+Informatiker I ist Urheber nach [§7 UrhG][ug_7]
 
-Informatiker I ist Rechtsinhaber, da I und V einen Werkvertrag haben, nach [§7 UrhG][UG_7] und [§15 UrhG][UG_15]
+Informatiker I ist Rechtsinhaber, da I und V einen Werkvertrag haben, nach [§7 UrhG][ug_7] und [§15 UrhG][ug_15]
 
 Informatiker I darf als Urheber und Rechtsinhaber
-- vervielfältigen nach [§69c Nr. 1 UrhG][UG_69c]
-- verbreiten nach [§69c Nr. 3 UrhG][UG_69c]
+- vervielfältigen nach [§69c Nr. 1 UrhG][ug_69c]
+- verbreiten nach [§69c Nr. 3 UrhG][ug_69c]
 wenn im zugrundeliegenden Vertrag keine Einschränkungen enthalten sind
 
-ETS-Register ist Datenbank nach [§87a Abs. 1 UrhG][UG_87a], da
+ETS-Register ist Datenbank nach [§87a Abs. 1 UrhG][ug_87a], da
 
 - Daten systematisch angeordnet sind
 - einzeln elektronisch selektierbar
@@ -70,7 +70,7 @@ ETS-Register ist Datenbank nach [§87a Abs. 1 UrhG][UG_87a], da
 
 S vervielfältigt Teile der Datenbank
 
-Wenn wesentlicher Teil, dann Zustimmung des DB-Herstellers erforderlich nach [§87b Abs. 1 UrhG][UG_87b]
+Wenn wesentlicher Teil, dann Zustimmung des DB-Herstellers erforderlich nach [§87b Abs. 1 UrhG][ug_87b]
 
 Wenn keine Zustimmung des DB-Herstellers vorliegt und wesentliche Teile vervielfältigt wurden
 -> Rechtsverletzung -> ETS hat Anspruch auf Vernichtung oder Schadensersatz
@@ -96,16 +96,16 @@ aufnimmt?
 
 Umsatz kann mit UrhG nicht gelöst werden, da kein Schutz durch UrhG
 
-Wettbewerbsrecht -> [§3 UWG][UWG_3] Verbot unlauterer Handlungen
+Wettbewerbsrecht -> [§3 UWG][uwg_3] Verbot unlauterer Handlungen
 
-Firmenstandort: gegebenenfalls Werke der Baukunst nach [§2 Nr. 4 UrhG][UG_2]
+Firmenstandort: gegebenenfalls Werke der Baukunst nach [§2 Nr. 4 UrhG][ug_2]
 
 Keine Zustimmung erforderlich, wenn ständig an öffentlichem Platz, Straße, ...
 
 Foto des Geschäftsführers:
 
-- Recht am eigenen Bild nach [§22 KunstUrhG][KUG_22]
-- außer Zeitgeschichte nach [§23 KunstUrhG][KUG_23], Person als Beiwerk, Versammlungen, höheres Interesse der Kunst
+- Recht am eigenen Bild nach [§22 KunstUrhG][kug_22]
+- außer Zeitgeschichte nach [§23 KunstUrhG][kug_23], Person als Beiwerk, Versammlungen, höheres Interesse der Kunst
 
 Firmenlogo:
 GGV Gemeinschaftsgeschmacksmusterverordnung Artikel 6
@@ -115,22 +115,22 @@ Inhaber eines Geschmacksmusters darf Benutzung verbieten
 
 Grafik wurde mit Standardeinstellungen erzeugt
 -> Keine persönliche geistige Schöpfung
--> Kein Schutz nach [§3 UrhG][UG_3]
+-> Kein Schutz nach [§3 UrhG][ug_3]
 
-Unlautere geschäftliche Handlung nach [§3 UWG][UWG_3] ?
+Unlautere geschäftliche Handlung nach [§3 UWG][uwg_3] ?
 
 **(c) Norbert konzipiert die Entwicklung eines online nutzbaren Auskunftsdienstes Ecoplus (E), der auch die Recherche in Regionom ermöglichen soll. Dataplus erfährt, dass Norbert bereits für den neuen Auskunftsdienst wirbt, und fordert von Norbert Unterlassung der Werbung sowie der Einbeziehung von Regionom in den Auskunftsdienst. Zu Recht?**
 
-Regionom ist Datenbank nach [§87a UrhG][UG_87a]
+Regionom ist Datenbank nach [§87a UrhG][ug_87a]
 
-Rechtsinhaber ist Dataplus nach [§87b UrhG][UG_87b]
+Rechtsinhaber ist Dataplus nach [§87b UrhG][ug_87b]
 
 E vervielfältigt nach Art und Umfang wesentliche Teile von Regionom, bzw. wiederholt unwesentliche Teile und macht dies öffentlich zugänglich
--> Zustimmung von Dataplus ist erforderlich nach [§87b UrhG][UG_87b]
+-> Zustimmung von Dataplus ist erforderlich nach [§87b UrhG][ug_87b]
 
-Schranken nach [§87c UrhG][UG_87c] greifen nicht
+Schranken nach [§87c UrhG][ug_87c] greifen nicht
 
-Irreführende rechtliche Handlung nach [§5 UWG][UWG_5]
+Irreführende rechtliche Handlung nach [§5 UWG][uwg_5]
 
 --------------------------------------------------------------------------------
 
@@ -201,39 +201,39 @@ Gerichtsurteile als solche sind als amtliche Werke nicht geschützt nach [§5 Ur
 
 **Anne (A) kauft das Tabellenkalkulationsprogramm Tangens (T) für das Betriebssystem Exoid (E). Sie möchte es gern auf ihrem Tablet- Computer einsetzen, jedoch läuft es nicht unter dem dort eingesetzten Open-Source-Betriebssystem Deformer (D), für welches u. a. ein unentgeltliches Bearbeitungsrecht gegenüber jedermann eingeräumt ist. Anne fragt bei Benjamin (B), dem selbständigen Entwickler von Tangens, an, um einige nicht in den Programmunterlagen enthaltene, für den Einsatz unter Deformer notwendige Zusatzinformationen zu erhalten. Benjamin verweigert die Information, weil es bei der Umstellung auf Deformer nicht um eine Fehlerberichtigung gehe. Wie ist die Rechtslage? Ist Benjamin zur Herausgabe der Zusatzinformationen verpflichtet? Was kann Anne tun, um ihr Ziel ohne weitere Kooperation von Benjamin und ohne Rechtsverletzung zu erreichen? Kann Benjamin das von Ihnen vorgeschlagene Vorgehen vertraglich wirksam ausschließen? Drohen Rechtsfolgen, wenn Anne Tangens „nachbessert", damit es unter Deformer läuft?**
 
-Tangens (T) ist ein Computerprogramm nach [§69a Abs. 1 UrhG][UG_69a] und genießt Schutz nach [§69a Abs. 3 UrhG][UG_69a], da persönliche geistige Schöpfung
+Tangens (T) ist ein Computerprogramm nach [§69a Abs. 1 UrhG][ug_69a] und genießt Schutz nach [§69a Abs. 3 UrhG][ug_69a], da persönliche geistige Schöpfung
 
-Benjamin (B) ist Urheber und Rechtsinhaber ([§69b UrhG][UG_69b] greift nicht) von Tangens (T) nach [§7 UrhG][UG_7]
+Benjamin (B) ist Urheber und Rechtsinhaber ([§69b UrhG][ug_69b] greift nicht) von Tangens (T) nach [§7 UrhG][ug_7]
 
 # 6.
 
 Benjamin muss keine weiteren Informationen an Anne herausgeben, da bestimmungsgemäße Nutzung gegeben ist (keine Regelung im UrhG, Schuldrecht ist erfüllt)
 
-Anne will Tangens (T) vervielfältigen ([§69c Nr. 1 UrhG][UG_69c]) und bearbeiten ([§69c Nr. 2 UrhG][UG_69c]) und benötigt dafür die Zustimmung von B
+Anne will Tangens (T) vervielfältigen ([§69c Nr. 1 UrhG][ug_69c]) und bearbeiten ([§69c Nr. 2 UrhG][ug_69c]) und benötigt dafür die Zustimmung von B
 
-Anpassung an Deformer (D) ist keine Fehlerbehebung und keine bestimmungsgemäße Nutzung, das heißt Schrankenbestimmungen nach [§69d Abs. 1 UrhG][UG_69d] greift nicht.
+Anpassung an Deformer (D) ist keine Fehlerbehebung und keine bestimmungsgemäße Nutzung, das heißt Schrankenbestimmungen nach [§69d Abs. 1 UrhG][ug_69d] greift nicht.
 
 Anne darf ohne Zustimmung durch Benjamin Tangens vervielfältigen und dekompilieren, um Interoperabilität herstellen zu können, da
 - sie selbst das vornimmt
 - die Informationen anders nicht zu erhalten sind
 - sie ihre Handlungen auf das notwendige Maß beschränkt
-nach [§69e Abs. 1 UrhG][UG_69e]
+nach [§69e Abs. 1 UrhG][ug_69e]
 
-Anne darf nicht ... [§69e Abs. 2 UrhG][UG_69e]
+Anne darf nicht ... [§69e Abs. 2 UrhG][ug_69e]
 
-Benjamin darf die Dekompilierung nicht durch Lizens-(Vertrags-)bestimmungen ausschließen, nach [§69g Abs. 2 UrhG][UG_69g]
+Benjamin darf die Dekompilierung nicht durch Lizens-(Vertrags-)bestimmungen ausschließen, nach [§69g Abs. 2 UrhG][ug_69g]
 
 Wenn Anne Tangens "nachbessert", droht
-- Unterlassung nach [§97 Abs. 1 UrhG][UG_97]
-- Schadensersatz nach [§97 Abs. 2 UrhG][UG_97]
+- Unterlassung nach [§97 Abs. 1 UrhG][ug_97]
+- Schadensersatz nach [§97 Abs. 2 UrhG][ug_97]
 
 ## Meine Zusätze
 
 Anne (A) möchte Tangens (T) editieren, so dass es auf dem Betriebssystem Deformer (D) läuft.
 
-Nach [§69c Abs. 2 UrhG][UG_69c] ist die Bearbeitung eines Computerprogrammes nur mit Zustimmung des Rechtsinhabers erlaubt.
+Nach [§69c Abs. 2 UrhG][ug_69c] ist die Bearbeitung eines Computerprogrammes nur mit Zustimmung des Rechtsinhabers erlaubt.
 
-Sollte es sich bei der Bearbeitung um eine Fehlerberichtigung handeln, so greift [§69d Abs. 1 UrhG][UG_69d]
+Sollte es sich bei der Bearbeitung um eine Fehlerberichtigung handeln, so greift [§69d Abs. 1 UrhG][ug_69d]
 
 --------------------------------------------------------------------------------
 
@@ -262,7 +262,7 @@ Zustimmung kann als Folge der vertraglichen Vereinbarung angenommen werden
 
 F ist Urheber und Rechtsinhaber von P nach [§7 UrhG][ug_7], da P neues geschütztes Werk darstellt, unabhängig vom Ablaufplan, nach [§3 Abs. 1 UrhG][ug_3]
 
-E ist nicht Miturheber von P, weil kein gewolltes Zusammenwirken nach [§8 Abs. 1 UrhG][UG_8] feststellbar ist, denn F hat alleine den Ablaufplan bearbeitet
+E ist nicht Miturheber von P, weil kein gewolltes Zusammenwirken nach [§8 Abs. 1 UrhG][ug_8] feststellbar ist, denn F hat alleine den Ablaufplan bearbeitet
 
 E kann seinen Anspruch gegen F nicht durchsetzen, da F alleiniger Urheber und Rechtsinhaber an P ist nach [§3 Abs. 1 UrhG][ug_3]
 
