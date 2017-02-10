@@ -291,7 +291,6 @@ Der Ablaufplan für P stellt selbst kein Computerprogramm dar und ist deswegen n
 
 Entfernung des Hinweises ist laut [§16 Abs. 2 Nr. 2][tmg_16] & [§16 Abs. 3 TMG][tmg_16] eine Ordnungswidrigkeit (bis zu 50000€ Busgeld).
 
-
 [kug_22]: https://dejure.org/gesetze/KunstUrhG/22.html
 [kug_23]: https://dejure.org/gesetze/KunstUrhG/23.html
 [tmg_15]: https://dejure.org/gesetze/TMG/15.html
