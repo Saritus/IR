@@ -1,4 +1,4 @@
-### Ablauf:
+# Ablauf:
 
 - Was ist Schutzgegenstand?
 - Wer ist Urheber?
@@ -9,7 +9,7 @@
 
 --------------------------------------------------------------------------------
 
-### 1.
+# 1.
 
 <b>
 Herr A hat als angestellter Softwarearchitekt bei einem Hersteller eine Vielzahl von Funktionen eines Datenbankmanagementsystems implementiert. Als der Hersteller einen neuen Geschäftsführer bekommt, behauptet dieser, das Unternehmen sei Urheber aller von den Angestellten im Rahmen ihrer Arbeitsverhältnisse geschaffenen Programmroutinen. Hat er Recht? Verletzt A das Urheberrecht, wenn er das System daheim installiert und für die Verwaltung seiner privaten DVD-Sammlung einsetzt?
@@ -32,7 +32,7 @@ Vernichtung / Deinstallation der Kopie nach [§69f Abs. 1 UrhG][UG_69f]
 
 --------------------------------------------------------------------------------
 
-### 2.
+# 2.
 
 <b>
 Arlt (A) kauft die Software SPX vom Entwickler Ebert (E). Arlt verkauft SPX an Clemens \(C\), ohne eigene Kopien zu behalten, wobei Arlt die Software für Clemens im Internet bereitstellt und Clemens diese herunterlädt. Ebert fordert von Arlt entgangenen Gewinn nach § 97 Absatz 2 UrhG. Zu Recht?
@@ -52,7 +52,7 @@ C muss Original löschen nach [§69f UrhG][UG_69f], dies wurde aber nicht geford
 
 --------------------------------------------------------------------------------
 
-### 3.
+# 3.
 
 <b>
 Der selbständige Informatiker I entwickelt im Auftrag eines Versicherungsunternehmens
@@ -97,7 +97,7 @@ V benötigt als Berechtigter keine weiteren Rechte
 
 --------------------------------------------------------------------------------
 
-### 4.
+# 4.
 
 <b>
 Die Firma Dataplus (D) bietet auf CD-ROM ein Recherchesystem Regionom
@@ -169,7 +169,7 @@ Irreführende rechtliche Handlung nach [§5 UWG][UWG_5]
 
 --------------------------------------------------------------------------------
 
-### 5.
+# 5.
 
 <b>
 Auf Basis eines Werkvertrages erarbeitet der Jurist Schulze (S) für die
@@ -250,7 +250,6 @@ Gerichtsurteile als solche sind als amtliche Werke nicht geschützt nach [§5 Ur
 
 --------------------------------------------------------------------------------
 
-### 6.
 
 <b>
 Anne (A) kauft das Tabellenkalkulationsprogramm Tangens (T) für
@@ -274,6 +273,7 @@ läuft?
 Tangens (T) ist ein Computerprogramm nach [§69a Abs. 1 UrhG][UG_69a] und genießt Schutz nach [§69a Abs. 3 UrhG][UG_69a], da persönliche geistige Schöpfung
 
 Benjamin (B) ist Urheber und Rechtsinhaber ([§69b UrhG][UG_69b] greift nicht) von Tangens (T) nach [§7 UrhG][UG_7]
+# 6.
 
 Benjamin muss keine weiteren Informationen an Anne herausgeben, da bestimmungsgemäße Nutzung gegeben ist (keine Regelung im UrhG, Schuldrecht ist erfüllt)
 
@@ -295,7 +295,7 @@ Wenn Anne Tangens "nachbessert", droht
 - Unterlassung nach [§97 Abs. 1 UrhG][UG_97]
 - Schadensersatz nach [§97 Abs. 2 UrhG][UG_97]
 
-##### Meine Zusätze
+## Meine Zusätze
 
 Anne (A) möchte Tangens (T) editieren, so dass es auf dem Betriebssystem Deformer (D) läuft.
 
@@ -305,7 +305,7 @@ Sollte es sich bei der Bearbeitung um eine Fehlerberichtigung handeln, so greift
 
 --------------------------------------------------------------------------------
 
-### 7.
+# 7.
 
 <b>
 Entwickler E erarbeitet im Rahmen eines Werkvertrages einen Ablaufplan
@@ -345,7 +345,7 @@ E ist nicht Miturheber von P, weil kein gewolltes Zusammenwirken nach [§8 Abs. 
 
 E kann seinen Anspruch gegen F nicht durchsetzen, da F alleiniger Urheber und Rechtsinhaber an P ist nach [§3 Abs. 1 UrhG][UG_3]
 
-##### Meine Zusätze
+## Meine Zusätze
 
 Programm (P) ist ein Computerprogramm nach [§69a Abs. 1 UrhG][UG_69a] und genießt Schutz nach [§69a Abs. 3 UrhG][UG_69a], da persönliche geistige Schöpfung
 
@@ -360,7 +360,6 @@ F ist Rechtsinhaber, weswegen der Verkauf Rechtsmäßig ist.
 Der Ablaufplan für P stellt selbst kein Computerprogramm dar und ist deswegen nicht geschützt nach [§69a Abs. 2 UrhG][UG_69a]
 
 
-### 8.
 
 <b>
 Viktor (V) betreibt einen Online-Versandhandel. Er möchte das Kundenverhalten auf seinen Internetseiten untersuchen, um seine Werbestrategie zu verbessern. Viktor schneidet das Nutzungsverhalten mit, verwendet dabei aber Pseudonyme, weil er keinen Ärger bezüglich Datenschutz will. Die protokollierten Seiten enthalten einen Hinweistext, dass das Nutzungsverhalten pseudonym ausgewertet werde. Ein Besucher der Seite beschwert sich, er habe nie eingewilligt, dass diese Daten erfasst werden. Braucht Viktor die Einwilligung der Nutzer in die Profilerstellung? Werden Rechte des Nutzers verletzt? Ein Freund rät Viktor, den Hinweis zu entfernen, damit es weniger Beschwerden gibt. Darf der Hinweis entfernt werden? Drohen Rechtsfolgen?
@@ -391,3 +390,4 @@ Viktor (V) betreibt einen Online-Versandhandel. Er möchte das Kundenverhalten a
 [UWG_3]: https://dejure.org/gesetze/UWG/3.html
 [UWG_5]: https://dejure.org/gesetze/UWG/5.html
 --------------------------------------------------------------------------------
+# 8.
