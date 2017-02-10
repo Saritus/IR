@@ -86,13 +86,12 @@ V benötigt als Berechtigter keine weiteren Rechte
 
 **(a) Braucht Dataplus die Erlaubnis der Unternehmen, wenn es**
 
-- ** Umsatzdaten,**
-- ** ein Foto vom Firmenstandort,**
-- ** ein Foto des Geschäftsführers, Vorstandsvorsitzenden o. ä.,**
-- ** das Firmenlogo,**
+- **Umsatzdaten,**
+- **ein Foto vom Firmenstandort,**
+- **ein Foto des Geschäftsführers, Vorstandsvorsitzenden o. ä.,**
+- **das Firmenlogo,**
 
-**soweit diese (z. B. im Internet) öffentlich zugänglich sind, in Regionom
-aufnimmt?**
+**soweit diese (z. B. im Internet) öffentlich zugänglich sind, in Regionom aufnimmt?**
 
 Umsatz kann mit UrhG nicht gelöst werden, da kein Schutz durch UrhG
 
