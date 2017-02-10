@@ -58,8 +58,10 @@ Informatiker I ist Urheber nach [§7 UrhG][ug_7]
 Informatiker I ist Rechtsinhaber, da I und V einen Werkvertrag haben, nach [§7 UrhG][ug_7] und [§15 UrhG][ug_15]
 
 Informatiker I darf als Urheber und Rechtsinhaber
+
 - vervielfältigen nach [§69c Nr. 1 UrhG][ug_69c]
 - verbreiten nach [§69c Nr. 3 UrhG][ug_69c]
+
 wenn im zugrundeliegenden Vertrag keine Einschränkungen enthalten sind
 
 ETS-Register ist Datenbank nach [§87a Abs. 1 UrhG][ug_87a], da
@@ -72,8 +74,7 @@ S vervielfältigt Teile der Datenbank
 
 Wenn wesentlicher Teil, dann Zustimmung des DB-Herstellers erforderlich nach [§87b Abs. 1 UrhG][ug_87b]
 
-Wenn keine Zustimmung des DB-Herstellers vorliegt und wesentliche Teile vervielfältigt wurden
--> Rechtsverletzung -> ETS hat Anspruch auf Vernichtung oder Schadensersatz
+Wenn keine Zustimmung des DB-Herstellers vorliegt und wesentliche Teile vervielfältigt wurden -> Rechtsverletzung -> ETS hat Anspruch auf Vernichtung oder Schadensersatz
 
 V benötigt als Berechtigter keine weiteren Rechte
 
@@ -107,15 +108,13 @@ Foto des Geschäftsführers:
 - Recht am eigenen Bild nach [§22 KunstUrhG][kug_22]
 - außer Zeitgeschichte nach [§23 KunstUrhG][kug_23], Person als Beiwerk, Versammlungen, höheres Interesse der Kunst
 
-Firmenlogo:
-GGV Gemeinschaftsgeschmacksmusterverordnung Artikel 6
+Firmenlogo:<br>
+GGV Gemeinschaftsgeschmacksmusterverordnung Artikel 6<br>
 Inhaber eines Geschmacksmusters darf Benutzung verbieten
 
 **(b) Nutzer Norbert (N) übernimmt gegen Bezahlung ein Regionom- Exemplar (Kopie), kopiert daraus eine mit Standardeinstellungen in Excel von Dataplus erstellte Geschäftsgrafik zum Umsatz des Unternehmens Zimmermann und übernimmt diese in ein eigenes kommerziell vertriebenes System. Dataplus fordert von Norbert Unterlassung und droht Schadensersatzforderungen an. Zu Recht?**
 
-Grafik wurde mit Standardeinstellungen erzeugt
--> Keine persönliche geistige Schöpfung
--> Kein Schutz nach [§3 UrhG][ug_3]
+Grafik wurde mit Standardeinstellungen erzeugt -> Keine persönliche geistige Schöpfung -> Kein Schutz nach [§3 UrhG][ug_3]
 
 Unlautere geschäftliche Handlung nach [§3 UWG][uwg_3] ?
 
@@ -125,8 +124,7 @@ Regionom ist Datenbank nach [§87a UrhG][ug_87a]
 
 Rechtsinhaber ist Dataplus nach [§87b UrhG][ug_87b]
 
-E vervielfältigt nach Art und Umfang wesentliche Teile von Regionom, bzw. wiederholt unwesentliche Teile und macht dies öffentlich zugänglich
--> Zustimmung von Dataplus ist erforderlich nach [§87b UrhG][ug_87b]
+E vervielfältigt nach Art und Umfang wesentliche Teile von Regionom, bzw. wiederholt unwesentliche Teile und macht dies öffentlich zugänglich -> Zustimmung von Dataplus ist erforderlich nach [§87b UrhG][ug_87b]
 
 Schranken nach [§87c UrhG][ug_87c] greifen nicht
 
@@ -214,9 +212,11 @@ Anne will Tangens (T) vervielfältigen ([§69c Nr. 1 UrhG][ug_69c]) und bearbeit
 Anpassung an Deformer (D) ist keine Fehlerbehebung und keine bestimmungsgemäße Nutzung, das heißt Schrankenbestimmungen nach [§69d Abs. 1 UrhG][ug_69d] greift nicht.
 
 Anne darf ohne Zustimmung durch Benjamin Tangens vervielfältigen und dekompilieren, um Interoperabilität herstellen zu können, da
+
 - sie selbst das vornimmt
 - die Informationen anders nicht zu erhalten sind
 - sie ihre Handlungen auf das notwendige Maß beschränkt
+
 nach [§69e Abs. 1 UrhG][ug_69e]
 
 Anne darf nicht ... [§69e Abs. 2 UrhG][ug_69e]
@@ -224,6 +224,7 @@ Anne darf nicht ... [§69e Abs. 2 UrhG][ug_69e]
 Benjamin darf die Dekompilierung nicht durch Lizens-(Vertrags-)bestimmungen ausschließen, nach [§69g Abs. 2 UrhG][ug_69g]
 
 Wenn Anne Tangens "nachbessert", droht
+
 - Unterlassung nach [§97 Abs. 1 UrhG][ug_97]
 - Schadensersatz nach [§97 Abs. 2 UrhG][ug_97]
 
