@@ -7,7 +7,7 @@
 - Ist der Ausführende der Rechtsinhaber?
 - Welche Rechtsfolgen haben die Handlungen?
 
-***
+--------------------------------------------------------------------------------
 
 ### 1.
 
@@ -30,7 +30,7 @@ A führt diese Handlungen aus, ohne Rechtsinhaber zu sein und ohne Zustimmung de
 
 Vernichtung / Deinstallation der Kopie nach [§69f Abs. 1 UrhG][UG_69f]
 
-***
+--------------------------------------------------------------------------------
 
 ### 2.
 
@@ -50,7 +50,7 @@ A führt diese Handlung aus, ohne Rechtsinhaber zu sein
 
 C muss Original löschen nach [§69f UrhG][UG_69f], dies wurde aber nicht gefordert
 
-***
+--------------------------------------------------------------------------------
 
 ### 3.
 
@@ -95,7 +95,7 @@ Wenn keine Zustimmung des DB-Herstellers vorliegt und wesentliche Teile vervielf
 
 V benötigt als Berechtigter keine weiteren Rechte
 
-***
+--------------------------------------------------------------------------------
 
 ### 4.
 
@@ -167,7 +167,7 @@ Schranken nach [§87c UrhG][UG_87c] greifen nicht
 
 Irreführende rechtliche Handlung nach [§5 UWG][UWG_5]
 
-***
+--------------------------------------------------------------------------------
 
 ### 5.
 
@@ -248,7 +248,7 @@ Tietz vervielfältigt und verbreitet nach Art und Umfang nicht wesentliche Teile
 
 Gerichtsurteile als solche sind als amtliche Werke nicht geschützt nach [§5 UrhG][UG_5]
 
-***
+--------------------------------------------------------------------------------
 
 ### 6.
 
@@ -303,7 +303,7 @@ Nach [§69c Abs. 2 UrhG][UG_69c] ist die Bearbeitung eines Computerprogrammes nu
 
 Sollte es sich bei der Bearbeitung um eine Fehlerberichtigung handeln, so greift [§69d Abs. 1 UrhG][UG_69d]
 
-***
+--------------------------------------------------------------------------------
 
 ### 7.
 
@@ -359,7 +359,6 @@ F ist Rechtsinhaber, weswegen der Verkauf Rechtsmäßig ist.
 
 Der Ablaufplan für P stellt selbst kein Computerprogramm dar und ist deswegen nicht geschützt nach [§69a Abs. 2 UrhG][UG_69a]
 
-***
 
 ### 8.
 
@@ -391,3 +390,4 @@ Viktor (V) betreibt einen Online-Versandhandel. Er möchte das Kundenverhalten a
 [UG_97]: https://dejure.org/gesetze/UrhG/97.html
 [UWG_3]: https://dejure.org/gesetze/UWG/3.html
 [UWG_5]: https://dejure.org/gesetze/UWG/5.html
+--------------------------------------------------------------------------------
