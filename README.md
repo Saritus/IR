@@ -337,7 +337,7 @@ F bearbeitet den Ablaufplan und erstellt daraus Programm P im Sinne von [§69c N
 
 F benötigt hierfür Zustimmung von E
 
-<b>Zustimmung kann als Folge der vertraglichen Vereinbarung angenommen werden
+Zustimmung kann als Folge der vertraglichen Vereinbarung angenommen werden
 
 F ist Urheber und Rechtsinhaber von P nach [§7 UrhG][UG_7], da P neues geschütztes Werk darstellt, unabhängig vom Ablaufplan, nach [§3 Abs. 1 UrhG][UG_3]
 
@@ -362,16 +362,7 @@ Der Ablaufplan für P stellt selbst kein Computerprogramm dar und ist deswegen n
 ### 8.
 
 <b>
-Viktor (V) betreibt einen Online-Versandhandel. Er möchte das Kundenverhalten
-auf seinen Internetseiten untersuchen, um seine Werbestrategie
-zu verbessern. Viktor schneidet das Nutzungsverhalten mit, verwendet
-dabei aber Pseudonyme, weil er keinen Ärger bezüglich Datenschutz
-will. Die protokollierten Seiten enthalten einen Hinweistext, dass das Nutzungsverhalten
-pseudonym ausgewertet werde. Ein Besucher der Seite beschwert sich, er habe nie eingewilligt, dass diese Daten erfasst werden.
-Braucht Viktor die Einwilligung der Nutzer in die Profilerstellung? Werden
-Rechte des Nutzers verletzt? Ein Freund rät Viktor, den Hinweis zu
-entfernen, damit es weniger Beschwerden gibt. Darf der Hinweis entfernt
-werden? Drohen Rechtsfolgen?
+Viktor (V) betreibt einen Online-Versandhandel. Er möchte das Kundenverhalten auf seinen Internetseiten untersuchen, um seine Werbestrategie zu verbessern. Viktor schneidet das Nutzungsverhalten mit, verwendet dabei aber Pseudonyme, weil er keinen Ärger bezüglich Datenschutz will. Die protokollierten Seiten enthalten einen Hinweistext, dass das Nutzungsverhalten pseudonym ausgewertet werde. Ein Besucher der Seite beschwert sich, er habe nie eingewilligt, dass diese Daten erfasst werden. Braucht Viktor die Einwilligung der Nutzer in die Profilerstellung? Werden Rechte des Nutzers verletzt? Ein Freund rät Viktor, den Hinweis zu entfernen, damit es weniger Beschwerden gibt. Darf der Hinweis entfernt werden? Drohen Rechtsfolgen?
 </b>
 
 [KUG_22]: https://dejure.org/gesetze/KunstUrhG/22.html
