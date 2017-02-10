@@ -84,16 +84,15 @@ V benötigt als Berechtigter keine weiteren Rechte
 
 **Die Firma Dataplus (D) bietet auf CD-ROM ein Recherchesystem Regionom (R) zur wirtschaftlichen Entwicklung regionaler Unternehmen an.**
 
-<b>
-(a) Braucht Dataplus die Erlaubnis der Unternehmen, wenn es<br />
-- Umsatzdaten,<br />
-- ein Foto vom Firmenstandort,<br />
-- ein Foto des Geschäftsführers, Vorstandsvorsitzenden o. ä.,<br />
-- das Firmenlogo,<br />
+**(a) Braucht Dataplus die Erlaubnis der Unternehmen, wenn es**
 
-soweit diese (z. B. im Internet) öffentlich zugänglich sind, in Regionom
-aufnimmt?
-</b>
+- ** Umsatzdaten,**
+- ** ein Foto vom Firmenstandort,**
+- ** ein Foto des Geschäftsführers, Vorstandsvorsitzenden o. ä.,**
+- ** das Firmenlogo,**
+
+**soweit diese (z. B. im Internet) öffentlich zugänglich sind, in Regionom
+aufnimmt?**
 
 Umsatz kann mit UrhG nicht gelöst werden, da kein Schutz durch UrhG
 
