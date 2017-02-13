@@ -297,6 +297,8 @@ Das Entfernen des Hinweises wäre ein Verstoß gegen [§16 Abs. 2 Nr. 2 TMG][tmg
 
 Diese Ordnungswidrigkeit kann mit einer Geldbuße von bis zu fünfzigtausend Euro geahndet werden, nach [§16 Abs. 3 TMG][tmg_16]
 
+<!-- Links -->
+
 [kug_22]: https://dejure.org/gesetze/KunstUrhG/22.html
 [kug_23]: https://dejure.org/gesetze/KunstUrhG/23.html
 [tmg_13]: https://dejure.org/gesetze/TMG/13.html
