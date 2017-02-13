@@ -217,11 +217,11 @@ Anne darf ohne Zustimmung durch Benjamin Tangens vervielfältigen und dekompilie
 
 nach [§69e Abs. 1 UrhG][ug_69e]
 
-Anne darf nicht
+Anne darf die gewonnenen Informationen nicht
 
-- zu anderen Zwecken als zur Herstellung der Interoperabilität des unabhängig geschaffenen Programms verwendet werden,
-- an Dritte weitergegeben werden, es sei denn, daß dies für die Interoperabilität des unabhängig geschaffenen Programms notwendig ist,
-- für die Entwicklung, Herstellung oder Vermarktung eines Programms mit im wesentlichen ähnlicher Ausdrucksform oder für irgendwelche anderen das Urheberrecht verletzenden Handlungen verwendet werden.
+- für andere Zwecke benutzen
+- an Dritte weitergeben werden
+- für die Entwicklung, Herstellung oder Vermarktung eines Programms verwenden
 
 nach [§69e Abs. 2 UrhG][ug_69e]
 
