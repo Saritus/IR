@@ -289,11 +289,11 @@ Der Ablaufplan für P stellt selbst kein Computerprogramm dar und ist deswegen n
 
 **Ein Freund rät Viktor, den Hinweis zu entfernen, damit es weniger Beschwerden gibt. Darf der Hinweis entfernt werden? Drohen Rechtsfolgen?**
 
-[§15 Abs. 3 TMG][tmg_15]: erlaubt Erhebungen, wenn kein Wiederspruch vom Nutzer besteht ([§13 Abs. 1 TMG][tmg_13] Regelt und Fordert das der Nutzer auf die Erhebung hingewiesen werden muss).
+[§15 Abs. 3 TMG][tmg_15]: erlaubt Erhebungen, wenn kein Widerspruch vom Nutzer besteht ([§13 Abs. 1 TMG][tmg_13] Regelt und Fordert das der Nutzer auf die Erhebung hingewiesen werden muss).
 
-[§15 Abs. 3 TMG][tmg_15]: Bei Wiederspruch erlischt die Erlaubnis.
+[§15 Abs. 3 TMG][tmg_15]: Bei Widerspruch erlischt die Erlaubnis.
 
-Entfernung des Hinweises ist laut [§16 Abs. 2 Nr. 2 TMG][tmg_16] & [§16 Abs. 3 TMG][tmg_16] eine Ordnungswidrigkeit (bis zu 50000€ Busgeld).
+Entfernung des Hinweises ist laut [§16 Abs. 2 Nr. 2 TMG][tmg_16] & [§16 Abs. 3 TMG][tmg_16] eine Ordnungswidrigkeit (bis zu 50000€ Bußgeld).
 
 > **§13 Abs. 1 TMG**
 
