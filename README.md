@@ -283,13 +283,19 @@ Der Ablaufplan für P stellt selbst kein Computerprogramm dar und ist deswegen n
 
 # 8.
 
-**Viktor (V) betreibt einen Online-Versandhandel. Er möchte das Kundenverhalten auf seinen Internetseiten untersuchen, um seine Werbestrategie zu verbessern. Viktor schneidet das Nutzungsverhalten mit, verwendet dabei aber Pseudonyme, weil er keinen Ärger bezüglich Datenschutz will. Die protokollierten Seiten enthalten einen Hinweistext, dass das Nutzungsverhalten pseudonym ausgewertet werde. Ein Besucher der Seite beschwert sich, er habe nie eingewilligt, dass diese Daten erfasst werden. Braucht Viktor die Einwilligung der Nutzer in die Profilerstellung? Werden Rechte des Nutzers verletzt? Ein Freund rät Viktor, den Hinweis zu entfernen, damit es weniger Beschwerden gibt. Darf der Hinweis entfernt werden? Drohen Rechtsfolgen?**
+**Viktor (V) betreibt einen Online-Versandhandel. Er möchte das Kundenverhalten auf seinen Internetseiten untersuchen, um seine Werbestrategie zu verbessern. Viktor schneidet das Nutzungsverhalten mit, verwendet dabei aber Pseudonyme, weil er keinen Ärger bezüglich Datenschutz will. Die protokollierten Seiten enthalten einen Hinweistext, dass das Nutzungsverhalten pseudonym ausgewertet werde. Ein Besucher der Seite beschwert sich, er habe nie eingewilligt, dass diese Daten erfasst werden.**
 
-[§15 Abs. 3 TMG][tmg_15]: erlaubt Erhebungen, wenn kein Wiederspruch vom Nutzer besteht ([§13 Abs. 1 TMG][tmg_13] Regelt und Fordert das der Nutzer auf die Erhebung hingewiesen werden muss).
+**Braucht Viktor die Einwilligung der Nutzer in die Profilerstellung? Werden Rechte des Nutzers verletzt?**
 
-[§15 Abs. 3 TMG][tmg_15]: Bei Wiederspruch erlischt die Erlaubnis.
+Viktor braucht für die Profilerstellung keine Einwilligungen. Die Nutzer haben allerdings die Möglichkeit, der Profilerstellung zu widersprechen, nach [§15 Abs. 3 TMG][tmg_15]
 
-Entfernung des Hinweises ist laut [§16 Abs. 2 Nr. 2][tmg_16] & [§16 Abs. 3 TMG][tmg_16] eine Ordnungswidrigkeit (bis zu 50000€ Busgeld).
+Der Nutzer muss auf die Profilerstellung sowie sein Widerspruchsrecht hingewiesen werden, nach [§13 Abs. 1 TMG][tmg_13]
+
+**Ein Freund rät Viktor, den Hinweis zu entfernen, damit es weniger Beschwerden gibt. Darf der Hinweis entfernt werden? Drohen Rechtsfolgen?**
+
+Das Entfernen des Hinweises wäre ein Verstoß gegen [§16 Abs. 2 Nr. 2 TMG][tmg_16]
+
+Diese Ordnungswidrigkeit kann mit einer Geldbuße von bis zu fünfzigtausend Euro geahndet werden, nach [§16 Abs. 3 TMG][tmg_16]
 
 [kug_22]: https://dejure.org/gesetze/KunstUrhG/22.html
 [kug_23]: https://dejure.org/gesetze/KunstUrhG/23.html
