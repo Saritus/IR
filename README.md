@@ -285,11 +285,33 @@ Der Ablaufplan für P stellt selbst kein Computerprogramm dar und ist deswegen n
 
 **Viktor (V) betreibt einen Online-Versandhandel. Er möchte das Kundenverhalten auf seinen Internetseiten untersuchen, um seine Werbestrategie zu verbessern. Viktor schneidet das Nutzungsverhalten mit, verwendet dabei aber Pseudonyme, weil er keinen Ärger bezüglich Datenschutz will. Die protokollierten Seiten enthalten einen Hinweistext, dass das Nutzungsverhalten pseudonym ausgewertet werde. Ein Besucher der Seite beschwert sich, er habe nie eingewilligt, dass diese Daten erfasst werden. Braucht Viktor die Einwilligung der Nutzer in die Profilerstellung? Werden Rechte des Nutzers verletzt? Ein Freund rät Viktor, den Hinweis zu entfernen, damit es weniger Beschwerden gibt. Darf der Hinweis entfernt werden? Drohen Rechtsfolgen?**
 
+> **§15 Abs. 3 TMG**
+
+> Der Diensteanbieter darf für Zwecke der Werbung, der Marktforschung oder zur bedarfsgerechten Gestaltung der Telemedien Nutzungsprofile bei Verwendung von Pseudonymen erstellen, sofern der Nutzer dem nicht widerspricht. Der Diensteanbieter hat den Nutzer auf sein Widerspruchsrecht im Rahmen der Unterrichtung nach § 13 Abs. 1 hinzuweisen. Diese Nutzungsprofile dürfen nicht mit Daten über den Träger des Pseudonyms zusammengeführt werden.
+
 [§15 Abs. 3 TMG][tmg_15]: erlaubt Erhebungen, wenn kein Wiederspruch vom Nutzer besteht ([§13 Abs. 1 TMG][tmg_13] Regelt und Fordert das der Nutzer auf die Erhebung hingewiesen werden muss).
+
+> **§13 Abs. 1 TMG**
+
+> Der Diensteanbieter hat den Nutzer zu Beginn des Nutzungsvorgangs über Art, Umfang und Zwecke der Erhebung und Verwendung personenbezogener Daten sowie über die Verarbeitung seiner Daten in Staaten außerhalb des Anwendungsbereichs der Richtlinie 95/46/EG des Europäischen Parlaments und des Rates vom 24\. Oktober 1995 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten und zum freien Datenverkehr (ABl. EG Nr. L 281 S. 31) in allgemein verständlicher Form zu unterrichten, sofern eine solche Unterrichtung nicht bereits erfolgt ist. Bei einem automatisierten Verfahren, das eine spätere Identifizierung des Nutzers ermöglicht und eine Erhebung oder Verwendung personenbezogener Daten vorbereitet, ist der Nutzer zu Beginn dieses Verfahrens zu unterrichten. Der Inhalt der Unterrichtung muss für den Nutzer jederzeit abrufbar sein.
 
 [§15 Abs. 3 TMG][tmg_15]: Bei Wiederspruch erlischt die Erlaubnis.
 
-Entfernung des Hinweises ist laut [§16 Abs. 2 Nr. 2][tmg_16] & [§16 Abs. 3 TMG][tmg_16] eine Ordnungswidrigkeit (bis zu 50000€ Busgeld).
+Entfernung des Hinweises ist laut [§16 Abs. 2 Nr. 2 TMG][tmg_16] & [§16 Abs. 3 TMG][tmg_16] eine Ordnungswidrigkeit (bis zu 50000€ Busgeld).
+
+> **§16 TMG**
+
+> (1) Ordnungswidrig handelt, wer absichtlich entgegen § 6 Abs. 2 Satz 1 den Absender oder den kommerziellen Charakter der Nachricht verschleiert oder verheimlicht.
+
+> (2) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
+
+> 1. entgegen § 5 Abs. 1 eine Information nicht, nicht richtig oder nicht vollständig verfügbar hält,
+> 2. entgegen § 13 Abs. 1 Satz 1 oder 2 den Nutzer nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig unterrichtet,
+> 3. einer Vorschrift des § 13 Abs. 4 Satz 1 Nr. 1 bis 4 oder 5 oder Absatz 7 Satz 1 Nummer 1 oder Nummer 2 Buchstabe a über eine dort genannte Pflicht zur Sicherstellung zuwiderhandelt,
+> 4. entgegen § 14 Abs. 1 oder § 15 Abs. 1 Satz 1 oder Abs. 8 Satz 1 oder 2 personenbezogene Daten erhebt oder verwendet oder nicht oder nicht rechtzeitig löscht oder
+> 5. entgegen § 15 Abs. 3 Satz 3 ein Nutzungsprofil mit Daten über den Träger des Pseudonyms zusammenführt.
+
+> (3) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
 
 [kug_22]: https://dejure.org/gesetze/KunstUrhG/22.html
 [kug_23]: https://dejure.org/gesetze/KunstUrhG/23.html
