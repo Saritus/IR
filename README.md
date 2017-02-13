@@ -76,7 +76,7 @@ Wenn wesentlicher Teil, dann Zustimmung des DB-Herstellers erforderlich nach [§
 
 Wenn keine Zustimmung des DB-Herstellers vorliegt und wesentliche Teile vervielfältigt wurden -> Rechtsverletzung -> ETS hat Anspruch auf Vernichtung oder Schadensersatz
 
-V benötigt als Berechtigter keine weiteren Rechte
+V benötigt als Berechtigter keine weiteren Rechte, da alle benötigten Rechte zur Ausführung bereits durch [§69d UrhG][ug_69d] gegeben sind
 
 --------------------------------------------------------------------------------
 
