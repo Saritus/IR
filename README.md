@@ -39,7 +39,7 @@ Entwickler E ist Urheber nach [§7 UrhG][ug_7]
 
 Entwickler E ist Rechtsinhaber nach [§69b UrhG][ug_69b]
 
-Weitergabe des Originals nach [§69c Nr. 1,3,4 UrhG][ug_69c]
+Weitergabe des Originals nach [§69c Nr. 1, 3, 4 UrhG][ug_69c]
 
 A führt diese Handlung aus, ohne Rechtsinhaber zu sein
 
@@ -51,7 +51,7 @@ C muss Original löschen nach [§69f UrhG][ug_69f], dies wurde aber nicht geford
 
 **Der selbständige Informatiker I entwickelt im Auftrag eines Versicherungsunternehmens V eine Software S, mit der sich eine regionale Übersicht der wahrscheinlichsten Arten von Gewitterzellen darstellen lässt. Die zugrundeliegenden Daten bezieht die Software aus dem ETSRegister der European Thunderstorm Society, die sämtliche Blitzeinschläge über ihr Sensornetzwerk registriert und kostenlos im Internet zugänglich macht: Nach der Eingabe von Zeitraum, Ort und Umkreis werden dort Blitze nach Zeitpunkt, Einschlagort und Intensität zurückgegeben. Darf I die Software S auf CD-ROM brennen und auf einer Computermesse verschenken? Welche Rechte benötigt der Versicherer V, um die von I übergebene Software für seine Risikoschätzung zu nutzen? Wie ist die Rechtslage?**
 
-Software S ist Computerprogramm und geschützt nach [§69a Abs. 1,3 UrhG][ug_69a]
+Software S ist Computerprogramm und geschützt nach [§69a Abs. 1, 3 UrhG][ug_69a]
 
 Informatiker I ist Urheber nach [§7 UrhG][ug_7]
 
@@ -134,7 +134,7 @@ Irreführende rechtliche Handlung nach [§5 UWG][uwg_5]
 
 **Auf Basis eines Werkvertrages erarbeitet der Jurist Schulze (S) für die Informatikfirma Makronom (M) den lauffähigen Prototyp eines Rechtsrecherchesystems Topcases (R) mit einer bisher noch nicht bekannten Auswahl und Präsentation wesentlicher Gerichtsentscheidungen zu auswählbaren Rechtsgebieten. Makronom realisiert das System auf CD-ROM und erreicht damit einen unerwartet hohen Umsatz.**
 
-Topcases (R) ist ein Computerprogramm und geschützt, da schöpferische Leistung nach [§69a Abs. 1,3 UrhG][ug_69a]
+Topcases (R) ist ein Computerprogramm und geschützt, da schöpferische Leistung nach [§69a Abs. 1, 3 UrhG][ug_69a]
 
 Urheber und Rechtsinhaber ist Schulze (S) nach [§7 UrhG][ug_7], [§69b UrhG][ug_69b] greift nicht
 
@@ -146,7 +146,7 @@ Sammlung wesentlicher Gerichtsentscheidungen ist Datenbankwerk nach [§4 Abs. 2 
 
 Urheber und Rechtsinhaber ist Schulze nach [§7 UrhG][ug_7]
 
-Makronom vervielfältigt und verbreitet Computerprogramm, benötigt dafür Rechte nach [§69c Nr. 1,3 UrhG][ug_69c]
+Makronom vervielfältigt und verbreitet Computerprogramm, benötigt dafür Rechte nach [§69c Nr. 1, 3 UrhG][ug_69c]
 
 Wenn im Werkvertrag keine zusätzliche Vereinbarung getroffen sind, besitzt Makronom diese Rechte nicht → Rechtsverletzung
 
@@ -165,8 +165,8 @@ Schrankenbestimmungen:
 
 Makronom verletzt Schulzes Rechte an
 
-- Computerprogramm nach [§69c Nr. 1,3 UrhG][ug_69c]
-- Datenbankwerk nach [§15 Nr. 1,2 UrhG][ug_15]
+- Computerprogramm nach [§69c Nr. 1, 3 UrhG][ug_69c]
+- Datenbankwerk nach [§15 Nr. 1, 2 UrhG][ug_15]
 
 wenn im Werkvertrag keine zusätzlichen Absprachen getroffen wurden.
 
