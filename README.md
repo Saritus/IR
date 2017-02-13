@@ -23,7 +23,7 @@ Installation ist Vervielfältigung nach [§69c Nr. 1 UrhG][ug_69c]
 
 Nutzbarmachung für eigene Zwecke könnte Bearbeitung bzw. Arrangement sein nach [§69c Nr. 2 UrhG][ug_69c]
 
-A führt diese Handlungen aus, ohne Rechtsinhaber zu sein und ohne Zustimmung des Rechtsinhabers -> Rechtsverletzung durch A
+A führt diese Handlungen aus, ohne Rechtsinhaber zu sein und ohne Zustimmung des Rechtsinhabers → Rechtsverletzung durch A
 
 Vernichtung / Deinstallation der Kopie nach [§69f Abs. 1 UrhG][ug_69f]
 
@@ -74,9 +74,9 @@ S vervielfältigt Teile der Datenbank
 
 Wenn wesentlicher Teil, dann Zustimmung des DB-Herstellers erforderlich nach [§87b Abs. 1 UrhG][ug_87b]
 
-Wenn keine Zustimmung des DB-Herstellers vorliegt und wesentliche Teile vervielfältigt wurden -> Rechtsverletzung -> ETS hat Anspruch auf Vernichtung oder Schadensersatz
+Wenn keine Zustimmung des DB-Herstellers vorliegt und wesentliche Teile vervielfältigt wurden → Rechtsverletzung → ETS hat Anspruch auf Vernichtung oder Schadensersatz
 
-V benötigt als Berechtigter keine weiteren Rechte
+V benötigt als Berechtigter keine weiteren Rechte, da alle benötigten Rechte zur Ausführung bereits durch [§69d UrhG][ug_69d] gegeben sind
 
 --------------------------------------------------------------------------------
 
@@ -95,11 +95,11 @@ V benötigt als Berechtigter keine weiteren Rechte
 
 Umsatz kann mit UrhG nicht gelöst werden, da kein Schutz durch UrhG
 
-Wettbewerbsrecht -> [§3 UWG][uwg_3] Verbot unlauterer Handlungen
+Wettbewerbsrecht → [§3 UWG][uwg_3] Verbot unlauterer Handlungen
 
 Firmenstandort: gegebenenfalls Werke der Baukunst nach [§2 Nr. 4 UrhG][ug_2]
 
-Keine Zustimmung erforderlich, wenn ständig an öffentlichem Platz, Straße, ...
+Wenn der Firmenstandort stetig von öffentlichen Plätzen zugänglich ist und das Foto von einem dieser öffentlichen Plätze gemacht wurde, dann ist keine Zustimmung des Schöpfers des Bauwerks notwendig, geregelt in [§59 Abs. 1 UrhG][ug_59]
 
 Foto des Geschäftsführers:
 
@@ -112,7 +112,7 @@ Inhaber eines Geschmacksmusters darf Benutzung verbieten
 
 **(b) Nutzer Norbert (N) übernimmt gegen Bezahlung ein Regionom- Exemplar (Kopie), kopiert daraus eine mit Standardeinstellungen in Excel von Dataplus erstellte Geschäftsgrafik zum Umsatz des Unternehmens Zimmermann und übernimmt diese in ein eigenes kommerziell vertriebenes System. Dataplus fordert von Norbert Unterlassung und droht Schadensersatzforderungen an. Zu Recht?**
 
-Grafik wurde mit Standardeinstellungen erzeugt -> Keine persönliche geistige Schöpfung -> Kein Schutz nach [§3 UrhG][ug_3]
+Grafik wurde mit Standardeinstellungen erzeugt → Keine persönliche geistige Schöpfung → Kein Schutz nach [§3 UrhG][ug_3]
 
 Unlautere geschäftliche Handlung nach [§3 UWG][uwg_3] ?
 
@@ -122,7 +122,7 @@ Regionom ist Datenbank nach [§87a UrhG][ug_87a]
 
 Rechtsinhaber ist Dataplus nach [§87b UrhG][ug_87b]
 
-E vervielfältigt nach Art und Umfang wesentliche Teile von Regionom, bzw. wiederholt unwesentliche Teile und macht dies öffentlich zugänglich -> Zustimmung von Dataplus ist erforderlich nach [§87b UrhG][ug_87b]
+E vervielfältigt nach Art und Umfang wesentliche Teile von Regionom, bzw. wiederholt unwesentliche Teile und macht dies öffentlich zugänglich → Zustimmung von Dataplus ist erforderlich nach [§87b UrhG][ug_87b]
 
 Schranken nach [§87c UrhG][ug_87c] greifen nicht
 
@@ -148,7 +148,7 @@ Urheber und Rechtsinhaber ist Schulze nach [§7 UrhG][ug_7]
 
 Makronom vervielfältigt und verbreitet Computerprogramm, benötigt dafür Rechte nach [§69c Nr. 1,3 UrhG][ug_69c]
 
-Wenn im Werkvertrag keine zusätzliche Vereinbarung getroffen sind, besitzt Makronom diese Rechte nicht -> Rechtsverletzung
+Wenn im Werkvertrag keine zusätzliche Vereinbarung getroffen sind, besitzt Makronom diese Rechte nicht → Rechtsverletzung
 
 Makronom hat Datenbankwerk vervielfältigt, verletzt damit Ausschließlichkeitsrecht von Schulze nach [§15 Nr. 1 UrhG][ug_15]
 
@@ -217,14 +217,22 @@ Anne darf ohne Zustimmung durch Benjamin Tangens vervielfältigen und dekompilie
 
 nach [§69e Abs. 1 UrhG][ug_69e]
 
-Anne darf nicht ... [§69e Abs. 2 UrhG][ug_69e]
+Anne darf die gewonnenen Informationen nicht
 
-Benjamin darf die Dekompilierung nicht durch Lizens-(Vertrags-)bestimmungen ausschließen, nach [§69g Abs. 2 UrhG][ug_69g]
+- für andere Zwecke benutzen
+- an Dritte weitergeben werden
+- für die Entwicklung, Herstellung oder Vermarktung eines Programms verwenden
+
+nach [§69e Abs. 2 UrhG][ug_69e]
+
+Benjamin darf die Dekompilierung nicht durch Lizens- oder Vertragsbestimmungen ausschließen, nach [§69g Abs. 2 UrhG][ug_69g]
 
 Wenn Anne Tangens "nachbessert", droht
 
 - Unterlassung nach [§97 Abs. 1 UrhG][ug_97]
 - Schadensersatz nach [§97 Abs. 2 UrhG][ug_97]
+
+Anne darf Deformer anpassen um die Interoperabilität zu gewährleisten, soweit dies in den Lizensbedingungen von Deformer zulässig ist
 
 --------------------------------------------------------------------------------
 
@@ -295,6 +303,7 @@ Entfernung des Hinweises ist laut [§16 Abs. 2 Nr. 2][tmg_16] & [§16 Abs. 3 TMG
 [ug_5]: https://dejure.org/gesetze/UrhG/5.html
 [ug_53]: https://dejure.org/gesetze/UrhG/53.html
 [ug_55a]: https://dejure.org/gesetze/UrhG/55a.html
+[ug_59]: https://dejure.org/gesetze/UrhG/59.html
 [ug_69a]: https://dejure.org/gesetze/UrhG/69a.html
 [ug_69b]: https://dejure.org/gesetze/UrhG/69b.html
 [ug_69c]: https://dejure.org/gesetze/UrhG/69c.html
