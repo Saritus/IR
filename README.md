@@ -232,6 +232,8 @@ Wenn Anne Tangens "nachbessert", droht
 - Unterlassung nach [§97 Abs. 1 UrhG][ug_97]
 - Schadensersatz nach [§97 Abs. 2 UrhG][ug_97]
 
+Anne darf Deformer anpassen um die Interoperabilität zu gewährleisten, soweit dies in den Lizensbedingungen von Deformer zulässig ist
+
 --------------------------------------------------------------------------------
 
 # 7.
