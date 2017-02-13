@@ -99,7 +99,7 @@ Wettbewerbsrecht -> [§3 UWG][uwg_3] Verbot unlauterer Handlungen
 
 Firmenstandort: gegebenenfalls Werke der Baukunst nach [§2 Nr. 4 UrhG][ug_2]
 
-Keine Zustimmung erforderlich, wenn ständig an öffentlichem Platz, Straße, ...
+Wenn der Firmenstandort stetig von öffentlichen Plätzen zugänglich ist und das Foto von einem dieser öffentlichen Plätze gemacht wurde, dann ist keine Zustimmung des Schöpfers des Bauwerks notwendig, geregelt in [§59 Abs. 1 UrhG][ug_59]
 
 Foto des Geschäftsführers:
 
@@ -295,6 +295,7 @@ Entfernung des Hinweises ist laut [§16 Abs. 2 Nr. 2][tmg_16] & [§16 Abs. 3 TMG
 [ug_5]: https://dejure.org/gesetze/UrhG/5.html
 [ug_53]: https://dejure.org/gesetze/UrhG/53.html
 [ug_55a]: https://dejure.org/gesetze/UrhG/55a.html
+[ug_59]: https://dejure.org/gesetze/UrhG/59.html
 [ug_69a]: https://dejure.org/gesetze/UrhG/69a.html
 [ug_69b]: https://dejure.org/gesetze/UrhG/69b.html
 [ug_69c]: https://dejure.org/gesetze/UrhG/69c.html
