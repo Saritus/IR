@@ -31,7 +31,7 @@ Vernichtung / Deinstallation der Kopie nach [§69f Abs. 1 UrhG][ug_69f]
 
 # 2.
 
-**Arlt (A) kauft die Software SPX vom Entwickler Ebert (E). Arlt verkauft SPX an Clemens (C), ohne eigene Kopien zu behalten, wobei Arlt die Software für Clemens im Internet bereitstellt und Clemens diese herunterlädt. Ebert fordert von Arlt entgangenen Gewinn nach § 97 Absatz 2 UrhG. Zu Recht?**
+**Arlt (A) kauft die Software SPX vom Entwickler Ebert (E). Arlt verkauft SPX an Clemens (C), ohne eigene Kopien zu behalten, wobei Arlt die Software für Clemens im Internet bereitstellt und Clemens diese herunterlädt. Ebert fordert von Arlt entgangenen Gewinn nach [§ 97 Absatz 2 UrhG][ug_97]. Zu Recht?**
 
 Software SPX ist Computerprogramm und geschützt nach [§69a UrhG][ug_69a]
 
