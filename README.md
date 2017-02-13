@@ -225,7 +225,7 @@ Anne darf die gewonnenen Informationen nicht
 
 nach [§69e Abs. 2 UrhG][ug_69e]
 
-Benjamin darf die Dekompilierung nicht durch Lizens-(Vertrags-)bestimmungen ausschließen, nach [§69g Abs. 2 UrhG][ug_69g]
+Benjamin darf die Dekompilierung nicht durch Lizens- oder Vertragsbestimmungen ausschließen, nach [§69g Abs. 2 UrhG][ug_69g]
 
 Wenn Anne Tangens "nachbessert", droht
 
