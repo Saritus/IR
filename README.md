@@ -289,19 +289,19 @@ Der Ablaufplan für P stellt selbst kein Computerprogramm dar und ist deswegen n
 
 **Ein Freund rät Viktor, den Hinweis zu entfernen, damit es weniger Beschwerden gibt. Darf der Hinweis entfernt werden? Drohen Rechtsfolgen?**
 
-> **§15 Abs. 3 TMG**
-
-> Der Diensteanbieter darf für Zwecke der Werbung, der Marktforschung oder zur bedarfsgerechten Gestaltung der Telemedien Nutzungsprofile bei Verwendung von Pseudonymen erstellen, sofern der Nutzer dem nicht widerspricht. Der Diensteanbieter hat den Nutzer auf sein Widerspruchsrecht im Rahmen der Unterrichtung nach § 13 Abs. 1 hinzuweisen. Diese Nutzungsprofile dürfen nicht mit Daten über den Träger des Pseudonyms zusammengeführt werden.
-
 [§15 Abs. 3 TMG][tmg_15]: erlaubt Erhebungen, wenn kein Wiederspruch vom Nutzer besteht ([§13 Abs. 1 TMG][tmg_13] Regelt und Fordert das der Nutzer auf die Erhebung hingewiesen werden muss).
+
+[§15 Abs. 3 TMG][tmg_15]: Bei Wiederspruch erlischt die Erlaubnis.
+
+Entfernung des Hinweises ist laut [§16 Abs. 2 Nr. 2 TMG][tmg_16] & [§16 Abs. 3 TMG][tmg_16] eine Ordnungswidrigkeit (bis zu 50000€ Busgeld).
 
 > **§13 Abs. 1 TMG**
 
 > Der Diensteanbieter hat den Nutzer zu Beginn des Nutzungsvorgangs über Art, Umfang und Zwecke der Erhebung und Verwendung personenbezogener Daten sowie über die Verarbeitung seiner Daten [...] zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten und zum freien Datenverkehr [...] in allgemein verständlicher Form zu unterrichten, sofern eine solche Unterrichtung nicht bereits erfolgt ist. Bei einem automatisierten Verfahren, das eine spätere Identifizierung des Nutzers ermöglicht und eine Erhebung oder Verwendung personenbezogener Daten vorbereitet, ist der Nutzer zu Beginn dieses Verfahrens zu unterrichten. Der Inhalt der Unterrichtung muss für den Nutzer jederzeit abrufbar sein.
 
-[§15 Abs. 3 TMG][tmg_15]: Bei Wiederspruch erlischt die Erlaubnis.
+> **§15 Abs. 3 TMG**
 
-Entfernung des Hinweises ist laut [§16 Abs. 2 Nr. 2 TMG][tmg_16] & [§16 Abs. 3 TMG][tmg_16] eine Ordnungswidrigkeit (bis zu 50000€ Busgeld).
+> Der Diensteanbieter darf für Zwecke der Werbung, der Marktforschung oder zur bedarfsgerechten Gestaltung der Telemedien Nutzungsprofile bei Verwendung von Pseudonymen erstellen, sofern der Nutzer dem nicht widerspricht. Der Diensteanbieter hat den Nutzer auf sein Widerspruchsrecht im Rahmen der Unterrichtung nach § 13 Abs. 1 hinzuweisen. Diese Nutzungsprofile dürfen nicht mit Daten über den Träger des Pseudonyms zusammengeführt werden.
 
 > **§16 TMG**
 
