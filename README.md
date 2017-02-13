@@ -287,13 +287,9 @@ Der Ablaufplan für P stellt selbst kein Computerprogramm dar und ist deswegen n
 
 **Braucht Viktor die Einwilligung der Nutzer in die Profilerstellung? Werden Rechte des Nutzers verletzt?**
 
-**Ein Freund rät Viktor, den Hinweis zu entfernen, damit es weniger Beschwerden gibt. Darf der Hinweis entfernt werden? Drohen Rechtsfolgen?**
-
 [§15 Abs. 3 TMG][tmg_15]: erlaubt Erhebungen, wenn kein Widerspruch vom Nutzer besteht ([§13 Abs. 1 TMG][tmg_13] Regelt und Fordert das der Nutzer auf die Erhebung hingewiesen werden muss).
 
 [§15 Abs. 3 TMG][tmg_15]: Bei Widerspruch erlischt die Erlaubnis.
-
-Entfernung des Hinweises ist laut [§16 Abs. 2 Nr. 2 TMG][tmg_16] & [§16 Abs. 3 TMG][tmg_16] eine Ordnungswidrigkeit (bis zu 50000€ Bußgeld).
 
 > **§13 Abs. 1 TMG**
 
@@ -302,6 +298,10 @@ Entfernung des Hinweises ist laut [§16 Abs. 2 Nr. 2 TMG][tmg_16] & [§16 Abs. 3
 > **§15 Abs. 3 TMG**
 
 > Der Diensteanbieter darf für Zwecke der Werbung, der Marktforschung oder zur bedarfsgerechten Gestaltung der Telemedien Nutzungsprofile bei Verwendung von Pseudonymen erstellen, sofern der Nutzer dem nicht widerspricht. Der Diensteanbieter hat den Nutzer auf sein Widerspruchsrecht im Rahmen der Unterrichtung nach § 13 Abs. 1 hinzuweisen. Diese Nutzungsprofile dürfen nicht mit Daten über den Träger des Pseudonyms zusammengeführt werden.
+
+**Ein Freund rät Viktor, den Hinweis zu entfernen, damit es weniger Beschwerden gibt. Darf der Hinweis entfernt werden? Drohen Rechtsfolgen?**
+
+Entfernung des Hinweises ist laut [§16 Abs. 2 Nr. 2 TMG][tmg_16] & [§16 Abs. 3 TMG][tmg_16] eine Ordnungswidrigkeit (bis zu 50000€ Bußgeld).
 
 > **§16 TMG**
 
